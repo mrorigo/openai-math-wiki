@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [The-Poisson-Dirichlet-Law-for-Prime-Predecessors-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Poisson-Dirichlet-Law-for-Prime-Predecessors-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 For a prime <i>p</i> chosen uniformly from $`3\le p\le x`$, list the prime factors of $`p-1`$ in decreasing order, with multiplicity. As $`x\to\infty`$, their logarithms, divided by $`\log(p-1)`$, converge in every finite joint distribution to the Poisson–Dirichlet distribution with parameter one. This proves the conjecture of Ford, Konyagin and Luca.

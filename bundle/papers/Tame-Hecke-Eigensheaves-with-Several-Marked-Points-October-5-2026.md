@@ -15,8 +15,6 @@ timestamp: 2026-10-05
 > Date: 2026-10-05
 > Source: [Tame-Hecke-Eigensheaves-with-Several-Marked-Points-October-5-2026/Tame-Hecke-Eigensheaves-with-Several-Marked-Points.pdf](https://github.com/openai/math/blob/main/preprints/Tame-Hecke-Eigensheaves-with-Several-Marked-Points-October-5-2026/Tame-Hecke-Eigensheaves-with-Several-Marked-Points.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 For SL<sub><i>n</i></sub> in characteristic <i>p</i> &gt; <i>n</i>, we construct nonzero locally constructible perverse Hecke eigensheaves with Borel level at two or more marked points on a smooth projective curve of genus at least two over an algebraic closure of a finite field. The parameter is a Zariski-dense geometric <i>ℓ</i>-adic PGL<sub><i>n</i></sub>-local system with unipotent tame monodromy; its nilpotent logarithms may have any Jordan type, including zero. The eigensheaves have parabolic nilpotent singular support, and their eigenisomorphisms retain the full tensor and fusion structure.

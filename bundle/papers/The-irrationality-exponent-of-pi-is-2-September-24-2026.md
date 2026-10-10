@@ -15,7 +15,7 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [The-irrationality-exponent-of-pi-is-2-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-irrationality-exponent-of-pi-is-2-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
+[Reasoning summary](https://github.com/openai/math/blob/main/reasoning_traces/irrationality-exponent-of-pi.pdf)
 
 ## Abstract
 

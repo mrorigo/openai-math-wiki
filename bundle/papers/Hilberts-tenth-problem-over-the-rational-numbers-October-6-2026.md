@@ -15,8 +15,6 @@ timestamp: 2026-10-06
 > Date: 2026-10-06
 > Source: [Hilberts-tenth-problem-over-the-rational-numbers-October-6-2026/main.pdf](https://github.com/openai/math/blob/main/preprints/Hilberts-tenth-problem-over-the-rational-numbers-October-6-2026/main.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We give a negative answer to Hilbert's tenth problem over the rational numbers: no algorithm decides whether a polynomial with integer coefficients has a rational zero. The number of variables is part of the input.

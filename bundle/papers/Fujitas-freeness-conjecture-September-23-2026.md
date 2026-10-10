@@ -15,8 +15,6 @@ timestamp: 2026-09-23
 > Date: 2026-09-23
 > Source: [Fujitas-freeness-conjecture-September-23-2026/Fujitas-freeness-conjecture-September-23-2026.pdf](https://github.com/openai/math/blob/main/preprints/Fujitas-freeness-conjecture-September-23-2026/Fujitas-freeness-conjecture-September-23-2026.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove Fujita's freeness conjecture. If <i>X</i> is a smooth complex projective variety of dimension <i>n</i> and <i>L</i> is an ample line bundle, then $`K_X+mL`$ is globally generated for every integer $`m\geq n+1`$.

@@ -15,8 +15,6 @@ timestamp: 2026-09-27
 > Date: 2026-09-27
 > Source: [Lifting-sections-from-the-reduced-support-of-an-adjoint-September-27-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Lifting-sections-from-the-reduced-support-of-an-adjoint-September-27-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 For a projective ℚ-factorial dlt pair with effective rational boundary over an algebraically closed field of characteristic zero, we prove that the adjoint has positive Iitaka dimension whenever a nonzero effective Cartier multiple is supported on the coefficient-one boundary and restricts to a semiample line bundle on its whole reduced support. This gives log abundance after nonvanishing in dimension at most four over ℂ.

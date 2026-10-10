@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [Ramanujan-Arthur-Decompositions-of-Cuspidal-Functions-at-Full-Finite-Level-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Ramanujan-Arthur-Decompositions-of-Cuspidal-Functions-at-Full-Finite-Level-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove rational and $`\overline{\mathbb Q}_\ell`$ decompositions of cuspidal automorphic functions for split semisimple groups over global function fields into subspaces indexed by nilpotent orbits of the dual group. The decompositions hold at every full finite level, with arbitrary divisor multiplicities. Each summand is governed by the same orbit at every unramified place and every complex embedding. At trivial level this proves Conjectures 3.4.5 and 3.4.6 of Gaitsgory–Lafforgue–Raskin. For split connected adjoint absolutely simple groups, we also prove that a cuspidal automorphic representation with one generic unramified local component is tempered at every unramified place. Thus globally generic cuspidal representations in this scope satisfy the unramified part of the generalized Ramanujan conjecture.

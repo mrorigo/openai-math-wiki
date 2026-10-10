@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [Weighted-Dilation-Graphs-Smooth-Shifted-Primes-and-Totient-Fibers-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Weighted-Dilation-Graphs-Smooth-Shifted-Primes-and-Totient-Fibers-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove Erdős's conjecture on the largest fibers of Euler's totient function: for every <i>ε</i> &gt; 0, infinitely many positive integers <i>n</i> have more than $`n^{1-\varepsilon }`$ preimages. We also show that, for every fixed <i>δ</i> &gt; 0, there are at least $`x^{1-o(1)}`$ primes <i>p</i> in $`2x\lt p\le5x`$ whose predecessors have no prime factor exceeding <i>x</i><sup><i>δ</i></sup>.

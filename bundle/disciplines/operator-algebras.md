@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Operator algebras
 
-31 manuscripts across 19 result families (15 with Lean formalizations).
+31 manuscripts across 19 result families (15 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

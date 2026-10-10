@@ -262,7 +262,7 @@ for p in papers_in:
         "note": p.get("note", ""), "abstract": p["abstract"], "family": fam_num,
         "disc": disc["name"], "disc_slug": disc_slug_of.get(disc["name"], "unclassified"),
         "date": date, "citation_key": rm.get("citation_key") or f"OAI:{d}",
-        "lean": p["pdf"] in lean_pdfs, "trace": str(fam_num) in traces,
+        "lean": p["pdf"] in lean_pdfs, "trace": fam_num in traces,
     })
 
 fam_papers = defaultdict(list)
@@ -293,7 +293,7 @@ for d in discs:
     fams_in = [n for n in d["families"] if n in fam_by_num]
     n_papers = sum(len(fam_by_num[n]["papers"]) for n in fams_in)
     n_lean = sum(1 for n in fams_in if fam_by_num[n].get("lean_doc"))
-    n_trace = sum(1 for n in fams_in if str(n) in traces)
+    n_trace = sum(1 for n in fams_in if n in traces)
     rows = [f"- [{n:03d}. {fam_by_num[n]['title']}](../results/{n:03d}-{slugify(fam_by_num[n]['title'])}.md)"
             for n in sorted(fams_in)]
     extra = []
@@ -332,7 +332,7 @@ for f in families:
     tags = ["openai-math", f"discipline-{disc_slug}", f"family-{n:03d}"]
     if f.get("lean_doc"):
         tags.append("lean-doc")
-    is_trace = str(n) in traces
+    is_trace = n in traces
     if is_trace:
         tags.append("reasoning-trace")
 
@@ -343,7 +343,7 @@ for f in families:
     if f.get("lean_doc"):
         flags.append(f"[Lean formalization of headline result]({GH}/blob/main/lean/docs/{n:03d}.md)")
     if is_trace:
-        flags.append(f"[Abridged reasoning summary]({GH}/blob/main/{traces[str(n)]})")
+        flags.append(f"[Abridged reasoning summary]({GH}/blob/main/{traces[n]})")
     if flags:
         body += ["  ·  ".join(flags), ""]
     body += ["## Description", "", clean_md(f["desc"]), "", "## Manuscripts", ""]
@@ -383,10 +383,11 @@ for p in papers:
             f"> Discipline: {ml(p['disc'], disc_target)}",
             f"> Date: {p['date'] or 'unknown'}",
             f"> Source: {ml(src_label, pdf_abs)}", ""]
+    flags = []
     if p["lean"]:
         flags.append("[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)")
     if p["trace"]:
-        flags.append(f"[Reasoning summary]({GH}/blob/main/{traces[str(n)]})")
+        flags.append(f"[Reasoning summary]({GH}/blob/main/{traces[n]})")
     if p["note"]:
         flags.append(f"*Note:* {p['note']}")
     if flags:

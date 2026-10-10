@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Mathematical physics
 
-59 manuscripts across 25 result families (17 with Lean formalizations).
+59 manuscripts across 25 result families (17 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

@@ -15,8 +15,6 @@ timestamp: 2026-10-05
 > Date: 2026-10-05
 > Source: [Equidistribution-of-Primitive-Sextic-Torus-Packets-October-5-2026/primitive-sextic-torus-packets.pdf](https://github.com/openai/math/blob/main/preprints/Equidistribution-of-Primitive-Sextic-Torus-Packets-October-5-2026/primitive-sextic-torus-packets.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove that the complete ideal-class packets of maximal orders in totally real sextic fields with no proper intermediate fields become equidistributed, with no escape of mass, in the space of unimodular lattices as their field discriminants tend to infinity. The limit is Haar probability measure. Each packet includes all coordinate-sign translates and is weighted by diagonal-orbit volume.

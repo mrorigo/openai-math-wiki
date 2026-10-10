@@ -15,8 +15,6 @@ timestamp: 2026-09-27
 > Date: 2026-09-27
 > Source: [Fourfold-nonvanishing-by-minimal-metrics-and-moving-jets-September-27-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Fourfold-nonvanishing-by-minimal-metrics-and-moving-jets-September-27-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove canonical nonvanishing for smooth connected projective complex fourfolds: if <i>K</i><sub><i>X</i></sub> is pseudo-effective, then $`H^0(X,mK_X)\ne0`$ for some positive integer <i>m</i>.

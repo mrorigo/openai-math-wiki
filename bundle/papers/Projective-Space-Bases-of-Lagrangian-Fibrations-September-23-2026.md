@@ -15,8 +15,6 @@ timestamp: 2026-09-23
 > Date: 2026-09-23
 > Source: [Projective-Space-Bases-of-Lagrangian-Fibrations-September-23-2026/main.pdf](https://github.com/openai/math/blob/main/preprints/Projective-Space-Bases-of-Lagrangian-Fibrations-September-23-2026/main.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove that the normal projective base of a projective Lagrangian fibration from a compact irreducible holomorphic symplectic Kähler manifold is projective space. This resolves the projective-space base conjecture for such fibrations in every dimension and deformation type.

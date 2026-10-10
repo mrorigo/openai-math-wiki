@@ -15,8 +15,6 @@ timestamp: 2026-10-05
 > Date: 2026-10-05
 > Source: [Reconstruction-from-Milnor-K-theory-modulo-the-characteristic-October-5-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Reconstruction-from-Milnor-K-theory-modulo-the-characteristic-October-5-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 Let <i>K</i> and <i>L</i> be finitely generated extensions of transcendence degree at least two over algebraically closed fields of characteristic <i>p</i>. We prove that every isomorphism of their first Milnor <i>K</i>-groups modulo <i>p</i> preserving the degree-two Steinberg relations is a nonzero scalar multiple of the map induced by a unique field isomorphism. The proof recovers projective lines over the subfields of <i>p</i>th powers by an elementary calculation with derivations.

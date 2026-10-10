@@ -15,8 +15,6 @@ timestamp: 2026-09-25
 > Date: 2026-09-25
 > Source: [An-unconditional-first-moment-for-cubic-Gauss-sums-September-25-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/An-unconditional-first-moment-for-cubic-Gauss-sums-September-25-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove Patterson's first-moment conjecture for normalized cubic Gauss sums over all primary Eisenstein primes, unconditionally. The sharp-cutoff main term is $`(6/5)c_*X^{5/6}/\log X`$, where $`c_*=(2\pi)^{2/3}/(3\Gamma(2/3))`$. For every fixed nonzero angular Fourier mode of the prime argument, we also prove cancellation at the first-moment scale.

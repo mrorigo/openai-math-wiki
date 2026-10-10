@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Probability and statistical mechanics
 
-105 manuscripts across 29 result families (19 with Lean formalizations).
+105 manuscripts across 29 result families (19 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

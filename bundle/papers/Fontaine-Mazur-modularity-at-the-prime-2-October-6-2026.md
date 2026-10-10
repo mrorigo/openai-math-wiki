@@ -15,8 +15,6 @@ timestamp: 2026-10-06
 > Date: 2026-10-06
 > Source: [Fontaine-Mazur-modularity-at-the-prime-2-October-6-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Fontaine-Mazur-modularity-at-the-prime-2-October-6-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove that every continuous, irreducible, odd two-dimensional 2-adic representation of $`G_{\mathbb Q}`$, unramified outside finitely many primes and de Rham at 2 with distinct Hodge–Tate weights, is modular up to Tate twist. This resolves the odd, regular two-dimensional Fontaine–Mazur conjecture over ℚ at 2, including all residual representations.

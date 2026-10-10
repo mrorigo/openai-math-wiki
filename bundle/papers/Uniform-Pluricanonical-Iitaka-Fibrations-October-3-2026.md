@@ -15,8 +15,6 @@ timestamp: 2026-10-03
 > Date: 2026-10-03
 > Source: [Uniform-Pluricanonical-Iitaka-Fibrations-October-3-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Uniform-Pluricanonical-Iitaka-Fibrations-October-3-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the effective Iitaka fibration conjecture in characteristic zero. For each dimension, one pluricanonical degree defines the Iitaka fibration of every smooth integral projective variety of that dimension and nonnegative Kodaira dimension over an algebraically closed field. The associated sections generate the full Iitaka function field.

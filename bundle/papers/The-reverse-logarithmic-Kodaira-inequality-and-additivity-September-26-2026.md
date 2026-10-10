@@ -15,8 +15,6 @@ timestamp: 2026-09-26
 > Date: 2026-09-26
 > Source: [The-reverse-logarithmic-Kodaira-inequality-and-additivity-September-26-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-reverse-logarithmic-Kodaira-inequality-and-additivity-September-26-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the reverse logarithmic Kodaira inequality for a surjective connected-fiber morphism $`f:(X,E)\to(Y,D)`$ of smooth projective reduced simple-normal-crossing pairs, with $`\mathop{\mathrm{Supp}}\nolimits (f^*D)\subseteq\mathop{\mathrm{Supp}}\nolimits E`$, such that <i>X</i> and every boundary stratum are smooth over $`Y\setminus\mathop{\mathrm{Supp}}\nolimits D`$. Together with logarithmic subadditivity, the inequality gives additivity, including both negative-infinity cases. This resolves Popa's logarithmic additivity conjecture positively in the projective reduced-SNC, stratum-smooth setting.

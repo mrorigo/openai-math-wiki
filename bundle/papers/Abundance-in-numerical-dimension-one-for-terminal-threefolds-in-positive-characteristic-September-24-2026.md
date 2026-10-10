@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [Abundance-in-numerical-dimension-one-for-terminal-threefolds-in-positive-characteristic-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Abundance-in-numerical-dimension-one-for-terminal-threefolds-in-positive-characteristic-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 Let <i>X</i> be a projective ℚ-factorial terminal threefold over an algebraically closed field of characteristic <i>p</i> &gt; 3. We prove the numerical-dimension-one case of abundance: if <i>K</i><sub><i>X</i></sub> is nef with $`\nu(K_X)=1`$, then <i>K</i><sub><i>X</i></sub> is semiample and $`\kappa(X,K_X)=1`$.

@@ -15,8 +15,6 @@ timestamp: 2026-09-17
 > Date: 2026-09-17
 > Source: [Prime-Predecessors-with-an-Even-Number-of-Prime-Factors-September-17-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Prime-Predecessors-with-an-Even-Number-of-Prime-Factors-September-17-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove that there are infinitely many primes <i>p</i> for which $`p-1`$ is squarefree and has an even number of prime factors. Equivalently, there are infinitely many primes <i>p</i> with $`\mu(p-1)=1`$.

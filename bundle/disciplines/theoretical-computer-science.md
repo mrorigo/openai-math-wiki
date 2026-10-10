@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Theoretical computer science
 
-73 manuscripts across 40 result families (34 with Lean formalizations).
+73 manuscripts across 40 result families (34 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

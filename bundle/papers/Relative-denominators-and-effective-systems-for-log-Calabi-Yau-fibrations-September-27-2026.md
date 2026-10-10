@@ -15,8 +15,6 @@ timestamp: 2026-09-27
 > Date: 2026-09-27
 > Source: [Relative-denominators-and-effective-systems-for-log-Calabi-Yau-fibrations-September-27-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Relative-denominators-and-effective-systems-for-log-Calabi-Yau-fibrations-September-27-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove uniform denominator and effective-system bounds for log Calabi-Yau fibrations from projective log canonical complex pairs of dimension at most four onto positive-dimensional bases, with boundary coefficients in a fixed finite rational set. The bounds give a uniform trivializing degree and a uniform b-Cartier multiple of the moduli b-divisor. When the base divisor is big, a uniform complete rounded adjoint system has section ratios generating the full base function field.

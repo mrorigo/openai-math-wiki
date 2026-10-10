@@ -15,8 +15,6 @@ timestamp: 2026-09-23
 > Date: 2026-09-23
 > Source: [The-Bogomolov-Pop-reconstruction-theorem-September-23-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Bogomolov-Pop-reconstruction-theorem-September-23-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the Bogomolov–Pop reconstruction conjecture for function fields of transcendence degree at least two over arbitrary algebraically closed fields of characteristic different from <i>ℓ</i>. The pro-<i>ℓ</i> abelian-by-central datum determines the perfect closure and its constant field, with precisely the Frobenius and <i>ℓ</i>-adic unit ambiguities.

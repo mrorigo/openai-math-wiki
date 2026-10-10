@@ -15,8 +15,6 @@ timestamp: 2026-10-05
 > Date: 2026-10-05
 > Source: [Frobenius-Structures-on-Tame-Hecke-Eigensheaves-October-5-2026/tame-hecke-frobenius.pdf](https://github.com/openai/math/blob/main/preprints/Frobenius-Structures-on-Tame-Hecke-Eigensheaves-October-5-2026/tame-hecke-frobenius.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We construct nonzero perverse Weil Hecke eigensheaves for SL<sub><i>n</i></sub> with Borel level at one marked point, after a finite extension of the field of constants. The parameter is a geometrically dense arithmetic PGL<sub><i>n</i></sub>-local system with tame regular-unipotent monodromy on a once-punctured curve of genus at least two over a finite field of characteristic <i>p</i> &gt; <i>n</i>. The full multi-leg eigenstructure is Frobenius compatible with the prescribed arithmetic eigenvalue, and the geometric sheaf has parabolic nilpotent singular support.

@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Number theory
 
-58 manuscripts across 31 result families (17 with Lean formalizations).
+58 manuscripts across 31 result families (17 with Lean formalizations, 2 with reasoning summaries).
 
 ## Result families
 

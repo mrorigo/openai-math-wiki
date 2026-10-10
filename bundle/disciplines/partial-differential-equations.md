@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Partial differential equations
 
-29 manuscripts across 16 result families (11 with Lean formalizations).
+29 manuscripts across 16 result families (11 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

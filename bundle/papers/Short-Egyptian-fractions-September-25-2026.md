@@ -15,7 +15,7 @@ timestamp: 2026-09-25
 > Date: 2026-09-25
 > Source: [Short-Egyptian-fractions-September-25-2026/Short-Egyptian-fractions-September-25-2026.pdf](https://github.com/openai/math/blob/main/preprints/Short-Egyptian-fractions-September-25-2026/Short-Egyptian-fractions-September-25-2026.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
+[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
 
 ## Abstract
 

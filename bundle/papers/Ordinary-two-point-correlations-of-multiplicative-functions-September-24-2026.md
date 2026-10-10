@@ -15,7 +15,7 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [Ordinary-two-point-correlations-of-multiplicative-functions-September-24-2026/final.pdf](https://github.com/openai/math/blob/main/preprints/Ordinary-two-point-correlations-of-multiplicative-functions-September-24-2026/final.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
+[Reasoning summary](https://github.com/openai/math/blob/main/reasoning_traces/ordinary-two-point-correlations.pdf)
 
 ## Abstract
 

@@ -15,8 +15,6 @@ timestamp: 2026-10-06
 > Date: 2026-10-06
 > Source: [Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-6-2026/main.pdf](https://github.com/openai/math/blob/main/preprints/Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-6-2026/main.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 Assume logarithmic Iitaka subadditivity for surjective morphisms with connected fibers between smooth projective complex varieties with compatible reduced simple normal crossing boundaries. We prove log abundance for normal irreducible compact Kähler spaces in every dimension: for a log canonical pair $`(X,\Delta)`$ with effective rational boundary and $`K_X+\Delta`$ ℚ-Cartier, analytic nefness of $`K_X+\Delta`$ implies semiampleness.

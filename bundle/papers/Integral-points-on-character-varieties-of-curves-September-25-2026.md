@@ -15,7 +15,7 @@ timestamp: 2026-09-25
 > Date: 2026-09-25
 > Source: [Integral-points-on-character-varieties-of-curves-September-25-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Integral-points-on-character-varieties-of-curves-September-25-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
+[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
 
 ## Abstract
 

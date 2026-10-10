@@ -15,8 +15,6 @@ timestamp: 2026-09-25
 > Date: 2026-09-25
 > Source: [An-asymptotic-formula-for-the-number-of-totients-September-25-2026/An-asymptotic-formula-for-the-number-of-totients-September-25-2026.pdf](https://github.com/openai/math/blob/main/preprints/An-asymptotic-formula-for-the-number-of-totients-September-25-2026/An-asymptotic-formula-for-the-number-of-totients-September-25-2026.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 Let $`V(x)`$ count the distinct values of Euler's totient function up to <i>x</i>. We give an explicit asymptotic equivalent for $`V(x)`$. Its coefficient is a uniform limit of functions defined from finite arithmetic data. We also prove that $`V(cx)/V(x)\to c`$ as $`x\to\infty`$ for every fixed <i>c</i> &gt; 0, answering a question of Erdős and Hall.

@@ -15,8 +15,6 @@ timestamp: 2026-09-23
 > Date: 2026-09-23
 > Source: [The-Margulis-Platonov-conjecture-over-number-fields-September-23-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Margulis-Platonov-conjecture-over-number-fields-September-23-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the Margulis–Platonov conjecture over number fields. For an absolutely almost simple simply connected group, every noncentral abstract normal subgroup of its rational points is the inverse image of an open normal subgroup of the product of its anisotropic nonarchimedean local groups.

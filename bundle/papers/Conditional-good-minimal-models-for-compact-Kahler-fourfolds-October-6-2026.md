@@ -15,8 +15,6 @@ timestamp: 2026-10-06
 > Date: 2026-10-06
 > Source: [Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-6-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-6-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 Assuming orbifold Iitaka subadditivity and abundance for nef fourfold adjoints of nonnegative Kodaira dimension, we prove the existence of good minimal models for globally strongly ℚ-factorial compact Kähler klt fourfold pairs with effective rational boundary and analytically pseudo-effective actual ℚ-Cartier adjoint. The ordinary fourfold minimal model program supplies the nef endpoint. We prove nonvanishing by fibration arguments and, in algebraic dimension zero, by singular metrics, holomorphic foliations, and extension from a reduced boundary. The projective abundance argument used in the proof is included in full.

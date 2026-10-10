@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [The-Abelian-Zilber-Pink-Conjecture-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Abelian-Zilber-Pink-Conjecture-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the abelian Zilber–Pink conjecture over $`\overline{\mathbb Q}`$. Every irreducible subvariety of an abelian variety has only finitely many maximal atypical subvarieties, where atypicality is measured inside its smallest containing torsion coset.

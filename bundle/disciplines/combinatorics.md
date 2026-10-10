@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Combinatorics
 
-50 manuscripts across 37 result families (33 with Lean formalizations).
+50 manuscripts across 37 result families (33 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

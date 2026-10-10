@@ -15,8 +15,6 @@ timestamp: 2026-10-05
 > Date: 2026-10-05
 > Source: [Constructible-tame-Hecke-eigensheaves-in-positive-characteristic-October-5-2026/constructible-tame-hecke-eigensheaves-positive-characteristic.pdf](https://github.com/openai/math/blob/main/preprints/Constructible-tame-Hecke-eigensheaves-in-positive-characteristic-October-5-2026/constructible-tame-hecke-eigensheaves-positive-characteristic.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We construct nonzero locally constructible perverse Hecke eigensheaves with Borel level at one marked point on a smooth projective curve of genus at least two over an algebraic closure of a finite field. The parameter is a Zariski-dense geometric <i>ℓ</i>-adic local system with tame regular-unipotent monodromy. The group is simple and simply connected and satisfies four explicit Lie-theoretic characteristic hypotheses. The eigensheaves have parabolic nilpotent singular support, and their eigenisomorphisms are compatible with tensor products, permutations, and fusion.

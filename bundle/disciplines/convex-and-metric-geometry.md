@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Convex and metric geometry
 
-30 manuscripts across 15 result families (13 with Lean formalizations).
+30 manuscripts across 15 result families (13 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

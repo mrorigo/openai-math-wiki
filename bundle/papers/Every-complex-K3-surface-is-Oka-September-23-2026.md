@@ -15,8 +15,6 @@ timestamp: 2026-09-23
 > Date: 2026-09-23
 > Source: [Every-complex-K3-surface-is-Oka-September-23-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Every-complex-K3-surface-is-Oka-September-23-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove that every complex K3 surface <i>X</i> is Oka, resolving the K3 Oka conjecture. Equivalently, for every <i>m</i> ≥ 1, every holomorphic map to <i>X</i> from a neighborhood of a compact convex set in ℂ<sup><i>m</i></sup> can be approximated uniformly on that set by entire maps $`\mathbb C^m\to X`$.

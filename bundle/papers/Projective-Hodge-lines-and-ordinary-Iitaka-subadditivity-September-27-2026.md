@@ -15,8 +15,6 @@ timestamp: 2026-09-27
 > Date: 2026-09-27
 > Source: [Projective-Hodge-lines-and-ordinary-Iitaka-subadditivity-September-27-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Projective-Hodge-lines-and-ordinary-Iitaka-subadditivity-September-27-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the ordinary Iitaka subadditivity conjecture for surjective projective morphisms with connected fibers between smooth connected projective varieties over algebraically closed fields of characteristic zero. If <i>F</i> is the geometric generic fiber of $`f:X\to Z`$, then $`\kappa(X)\geq\kappa(F)+\kappa(Z)`$.

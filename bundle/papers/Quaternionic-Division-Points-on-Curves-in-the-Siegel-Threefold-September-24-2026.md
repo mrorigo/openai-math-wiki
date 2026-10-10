@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [Quaternionic-Division-Points-on-Curves-in-the-Siegel-Threefold-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Quaternionic-Division-Points-on-Curves-in-the-Siegel-Threefold-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the quaternionic-division component of Zilber–Pink for curves in $`\mathcal A_2`$ over $`\overline{\mathbb Q}`$. A Hodge-generic algebraic curve contains only finitely many points whose full geometric rational endomorphism algebra is an indefinite quaternion division algebra over ℚ. No boundary or reduction hypothesis is required.

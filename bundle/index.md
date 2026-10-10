@@ -27,7 +27,7 @@ Papers link to their result family and discipline; result families link to their
 
 ## Managing the store
 
-This directory is both the OKF bundle and the [rust-okf](https://github.com/mrorigo/rust-okf) store root (`okf.toml` + `.okf-index/`). The indexer skips `index.md`, `log.md`, and dot-directories, so the store can live inside the bundle.
+This directory is both the OKF bundle and the [rust-okf](https://github.com/origo/rust-okf) store root (`okf.toml` + `.okf-index/`). The indexer skips `index.md`, `log.md`, and dot-directories, so the store can live inside the bundle.
 
 ```bash
 cd openai-math-wiki

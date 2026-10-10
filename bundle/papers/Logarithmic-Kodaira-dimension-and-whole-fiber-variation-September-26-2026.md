@@ -15,8 +15,6 @@ timestamp: 2026-09-26
 > Date: 2026-09-26
 > Source: [Logarithmic-Kodaira-dimension-and-whole-fiber-variation-September-26-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Logarithmic-Kodaira-dimension-and-whole-fiber-variation-September-26-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the logarithmic Iitaka–Viehweg inequality for projective surjective morphisms with connected fibers between smooth complex quasi-projective varieties whose base has nonnegative logarithmic Kodaira dimension. The variation measures the birational field of definition of the whole geometric generic fiber. This resolves Popa's logarithmic variation conjecture positively.

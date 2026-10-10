@@ -10,7 +10,7 @@ timestamp: 2026-10-06
 
 # Algebra
 
-29 manuscripts across 18 result families (10 with Lean formalizations).
+29 manuscripts across 18 result families (10 with Lean formalizations, 1 with reasoning summaries).
 
 ## Result families
 

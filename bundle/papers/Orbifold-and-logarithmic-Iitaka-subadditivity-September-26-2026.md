@@ -15,8 +15,6 @@ timestamp: 2026-09-26
 > Date: 2026-09-26
 > Source: [Orbifold-and-logarithmic-Iitaka-subadditivity-September-26-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Orbifold-and-logarithmic-Iitaka-subadditivity-September-26-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove Campana's orbifold Iitaka subadditivity conjecture for rational simple normal crossing boundaries on compact manifolds in Fujiki class $`\mathcal C`$, including coefficient one. Ordinary and logarithmic subadditivity follow.

@@ -15,8 +15,6 @@ timestamp: 2026-09-27
 > Date: 2026-09-27
 > Source: [Abundance-after-nonvanishing-for-compact-Kahler-fourfolds-September-27-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Abundance-after-nonvanishing-for-compact-Kahler-fourfolds-September-27-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove semiampleness of the actual ℚ-Cartier adjoint $`K_X+\Delta`$ of a normal connected compact Kähler klt fourfold whenever it is analytically nef and some positive Cartier multiple has a nonzero section. The boundary is effective and rational; the fourfold need not be projective or ℚ-factorial. In Iitaka dimension zero, a positive Cartier multiple is the trivial holomorphic line bundle.

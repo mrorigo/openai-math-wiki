@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [The-Restricted-Geometric-Langlands-Equivalence-in-Positive-Characteristic-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Restricted-Geometric-Langlands-Equivalence-in-Positive-Characteristic-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the $`\overline{\mathbb Q}_\ell`$-linear restricted geometric Langlands equivalence for smooth projective connected curves and connected reductive groups in characteristic <i>p</i> &gt; 0, with <i>ℓ</i> ≠ <i>p</i>, in two regimes. Over $`\overline{\mathbb F}_q`$, we assume the four characteristic conditions of the restricted theory stated below. Over arbitrary algebraically closed fields, we assume these conditions and additionally that <i>p</i> is very good and does not divide the Weyl-group order. This proves Gaitsgory–Raskin's full-support conjecture [[12, Conjecture 1.3.10]](https://arxiv.org/abs/2508.02237v1) in these regimes.

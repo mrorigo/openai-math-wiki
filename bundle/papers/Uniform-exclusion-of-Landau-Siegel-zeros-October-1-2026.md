@@ -15,7 +15,7 @@ timestamp: 2026-10-01
 > Date: 2026-10-01
 > Source: [Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
+[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
 
 ## Abstract
 

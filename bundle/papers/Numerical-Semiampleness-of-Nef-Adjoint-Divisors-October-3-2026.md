@@ -15,8 +15,6 @@ timestamp: 2026-10-03
 > Date: 2026-10-03
 > Source: [Numerical-Semiampleness-of-Nef-Adjoint-Divisors-October-3-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Numerical-Semiampleness-of-Nef-Adjoint-Divisors-October-3-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the Generalised Abundance Conjecture: if $`(X,B)`$ is a projective klt ℚ-pair over an algebraically closed field of characteristic zero, $`K_X+B`$ is pseudo-effective, <i>M</i> is a nef ℚ-Cartier divisor on <i>X</i>, and $`K_X+B+M`$ is nef, then $`K_X+B+M`$ is numerically equivalent to a semiample ℚ-Cartier divisor on <i>X</i>.

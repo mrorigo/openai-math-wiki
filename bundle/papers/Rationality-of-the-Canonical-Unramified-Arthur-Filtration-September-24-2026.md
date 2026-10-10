@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [Rationality-of-the-Canonical-Unramified-Arthur-Filtration-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/Rationality-of-the-Canonical-Unramified-Arthur-Filtration-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 Under the characteristic hypotheses of restricted geometric Langlands theory, we prove that the canonical Arthur filtration on finitely supported unramified automorphic functions is defined over ℚ for split connected semisimple groups. The result includes the noncuspidal part and every closed invariant nilpotent support, establishing the rationality conjecture of Gaitsgory–Lafforgue–Raskin in this setting.

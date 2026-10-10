@@ -15,8 +15,6 @@ timestamp: 2026-09-24
 > Date: 2026-09-24
 > Source: [The-ordinary-double-point-gap-in-every-dimension-September-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-ordinary-double-point-gap-in-every-dimension-September-24-2026/paper.pdf)
 
-[Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)  ·  [Lean formalized](https://github.com/openai/math/blob/main/lean/formalization.yaml)
-
 ## Abstract
 
 We prove the ordinary-double-point gap conjecture for boundary-zero complex algebraic klt germs in every dimension: a singular <i>n</i>-dimensional germ has normalized volume at most $`2(n-1)^n`$, with equality precisely at an analytic ordinary double point.
