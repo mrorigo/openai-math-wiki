@@ -1,0 +1,14 @@
+# https://github.com/mrorigo/rust-okf
+bind = "127.0.0.1:8787"
+index = "./.okf-index"
+
+[fastembed]
+enabled = true
+model = "BAAI/bge-small-en-v1.5"
+
+[ann]
+enabled = true
+threshold = 500
+m = 16
+ef_construction = 64
+ef_search = 32

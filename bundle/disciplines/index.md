@@ -1,0 +1,21 @@
+# Disciplines
+
+17 subject areas from the collection overview. [Result families](../results/index.md) · [Papers](../papers/index.md)
+
+- [Algebra](algebra.md)
+- [Algebraic and complex geometry](algebraic-and-complex-geometry.md)
+- [Combinatorics](combinatorics.md)
+- [Convex and metric geometry](convex-and-metric-geometry.md)
+- [Differential geometry](differential-geometry.md)
+- [Dynamical systems and ergodic theory](dynamical-systems-and-ergodic-theory.md)
+- [Functional analysis](functional-analysis.md)
+- [Group theory](group-theory.md)
+- [Mathematical logic](mathematical-logic.md)
+- [Mathematical physics](mathematical-physics.md)
+- [Number theory](number-theory.md)
+- [Operator algebras](operator-algebras.md)
+- [Partial differential equations](partial-differential-equations.md)
+- [Probability and statistical mechanics](probability-and-statistical-mechanics.md)
+- [Real and complex analysis](real-and-complex-analysis.md)
+- [Theoretical computer science](theoretical-computer-science.md)
+- [Topology](topology.md)

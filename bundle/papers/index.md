@@ -1,0 +1,723 @@
+# Papers
+
+719 manuscripts. [Disciplines](../disciplines/index.md) · [Result families](../results/index.md)
+
+- [001. Milne's rationality conjecture for abelian varieties](Milnes-rationality-conjecture-for-abelian-varieties-October-7-2026.md) — *2026-10-07*
+- [002. Exact Birch–Swinnerton-Dyer Formula from Low Selmer Corank](Exact-Birch-Swinnerton-Dyer-Formula-from-Low-Selmer-Corank-October-7-2026.md) — *2026-10-07*
+- [002. The Selmer converse for elliptic curves at every prime](The-Selmer-converse-for-elliptic-curves-at-every-prime-October-7-2026.md) — *2026-10-07*
+- [002. The two-primary Birch–Swinnerton-Dyer formula in Selmer corank at most one](The-two-primary-Birch-Swinnerton-Dyer-formula-in-Selmer-corank-at-most-one-October-6-2026.md) — *2026-10-06*
+- [003. The Quasi-Riemann Hypothesis (alternate 11/12 proof)](The-Quasi-Riemann-Hypothesis-October-5-2026.md) — *2026-10-05*
+- [003. The Quasi-Riemann Hypothesis: A Zero-Free Half-Plane $`\Re s\gt 7/8`$ ](The-Quasi-Riemann-Hypothesis-September-30-2026.md) — *2026-09-30*
+- [003. Uniform exclusion of Landau–Siegel zeros](Uniform-exclusion-of-Landau-Siegel-zeros-October-1-2026.md) — *2026-10-01*
+- [004. A pointwise 2-converse for elliptic curves with rational two-torsion](A-pointwise-2-converse-for-elliptic-curves-with-rational-two-torsion-October-7-2026.md) — *2026-10-07*
+- [004. Hilbert’s tenth problem over the rational numbers](Hilberts-tenth-problem-over-the-rational-numbers-October-6-2026.md) — *2026-10-06*
+- [005. Catalan's constant is irrational](Catalans-constant-is-irrational-September-24-2026.md) — *2026-09-24*
+- [006. Goldfeld's analytic density conjecture and the 2-converse for elliptic curves](Goldfelds-analytic-density-conjecture-and-the-2-converse-for-elliptic-curves-October-7-2026.md) — *2026-10-07*
+- [006. The mean analytic rank of quadratic twists of elliptic curves](The-mean-analytic-rank-of-quadratic-twists-of-elliptic-curves-October-6-2026.md) — *2026-10-06*
+- [007. Ordinary two-point correlations of multiplicative functions](Ordinary-two-point-correlations-of-multiplicative-functions-September-24-2026.md) — *2026-09-24*
+- [008. The Deligne-Drinfeld conjecture](The-Deligne-Drinfeld-conjecture-September-23-2026.md) — *2026-09-23*
+- [009. Reconstruction from Milnor K-theory modulo the characteristic](Reconstruction-from-Milnor-K-theory-modulo-the-characteristic-October-5-2026.md) — *2026-10-05*
+- [009. Reconstruction of Function Fields from Mod-ℓ Milnor K-Theory](Reconstruction-of-Function-Fields-from-Mod-ell-Milnor-K-Theory-October-5-2026.md) — *2026-10-05*
+- [009. The Bogomolov-Pop reconstruction theorem](The-Bogomolov-Pop-reconstruction-theorem-September-23-2026.md) — *2026-09-23*
+- [010. Fontaine–Mazur modularity at the prime 2](Fontaine-Mazur-modularity-at-the-prime-2-October-6-2026.md) — *2026-10-06*
+- [010. The Dimension of the Two-Adic Hecke Algebra at Odd Level](The-Dimension-of-the-Two-Adic-Hecke-Algebra-at-Odd-Level-October-5-2026.md) — *2026-10-05*
+- [010. Unrestricted pro-modularity at the prime two](Unrestricted-pro-modularity-at-the-prime-two-October-6-2026.md) — *2026-10-06*
+- [011. Prime Predecessors with an Even Number of Prime Factors](Prime-Predecessors-with-an-Even-Number-of-Prime-Factors-September-17-2026.md) — *2026-09-17*
+- [011. The Poisson-Dirichlet law for prime predecessors](The-Poisson-Dirichlet-Law-for-Prime-Predecessors-September-24-2026.md) — *2026-09-24*
+- [011. Weighted dilation graphs, smooth shifted primes and totient fibers](Weighted-Dilation-Graphs-Smooth-Shifted-Primes-and-Totient-Fibers-September-24-2026.md) — *2026-09-24*
+- [012. The joint Dickman law for consecutive integers](The-joint-Dickman-law-for-consecutive-integers-September-24-2026.md) — *2026-09-24*
+- [013. The additive indecomposability of the primes](the-additive-indecomposability-of-the-primes-September-24-2026.md) — *2026-09-24*
+- [014. Constructible tame Hecke eigensheaves in positive characteristic](Constructible-tame-Hecke-eigensheaves-in-positive-characteristic-October-5-2026.md) — *2026-10-05*
+- [014. Frobenius Structures on Tame Hecke Eigensheaves](Frobenius-Structures-on-Tame-Hecke-Eigensheaves-October-5-2026.md) — *2026-10-05*
+- [014. Global Arthur Enhancements of Cuspidal Excursion Parameters](Global-Arthur-Enhancements-of-Cuspidal-Excursion-Parameters-October-5-2026.md) — *2026-10-05*
+- [014. Ramanujan-Arthur Decompositions of Cuspidal Functions at Full Finite Level](Ramanujan-Arthur-Decompositions-of-Cuspidal-Functions-at-Full-Finite-Level-September-24-2026.md) — *2026-09-24*
+- [014. Rationality of the Canonical Unramified Arthur Filtration](Rationality-of-the-Canonical-Unramified-Arthur-Filtration-September-24-2026.md) — *2026-09-24*
+- [014. Tame Hecke Eigensheaves with Several Marked Points](Tame-Hecke-Eigensheaves-with-Several-Marked-Points-October-5-2026.md) — *2026-10-05*
+- [014. Temperedness at ramified places for globally generic exceptional groups](Temperedness-at-ramified-places-for-globally-generic-exceptional-groups-October-5-2026.md) — *2026-10-05*
+- [014. The Restricted Geometric Langlands Equivalence in Positive Characteristic](The-Restricted-Geometric-Langlands-Equivalence-in-Positive-Characteristic-September-24-2026.md) — *2026-09-24*
+- [015. Equidistribution of Prime-Degree Torus Packets with Arbitrary Local Type](Equidistribution-of-Prime-Degree-Torus-Packets-with-Arbitrary-Local-Type-September-24-2026.md) — *2026-09-24*
+- [015. Equidistribution of primitive quartic torus packets for arbitrary orders](Equidistribution-of-Primitive-Quartic-Torus-Packets-for-Arbitrary-Orders-October-5-2026.md) — *2026-10-05*
+- [015. Equidistribution of Primitive Sextic Torus Packets](Equidistribution-of-Primitive-Sextic-Torus-Packets-October-5-2026.md) — *2026-10-05*
+- [016. Elliptic squares and Zilber–Pink for curves in A2](Elliptic-Squares-and-Zilber-Pink-for-Curves-in-A2-September-24-2026.md) — *2026-09-24*
+- [016. Quaternionic division points on curves in the Siegel threefold](Quaternionic-Division-Points-on-Curves-in-the-Siegel-Threefold-September-24-2026.md) — *2026-09-24*
+- [016. The abelian Zilber–Pink conjecture](The-Abelian-Zilber-Pink-Conjecture-September-24-2026.md) — *2026-09-24*
+- [016. The E×CM component of Zilber–Pink for curves in A2](The-E-times-CM-Component-of-Zilber-Pink-for-Curves-in-A2-September-24-2026.md) — *2026-09-24*
+- [017. The irrationality exponent of pi is 2](The-irrationality-exponent-of-pi-is-2-September-24-2026.md) — *2026-09-24*
+- [018. The Margulis–Platonov conjecture over global function fields](The-Margulis-Platonov-conjecture-over-global-function-fields-October-5-2026.md) — *2026-10-05*
+- [018. The Margulis–Platonov conjecture over number fields](The-Margulis-Platonov-conjecture-over-number-fields-September-23-2026.md) — *2026-09-23*
+- [019. The p-adic section conjecture](The-p-adic-section-conjecture-October-6-2026.md) — *2026-10-06*
+- [019. Étale covers with a prescribed exterior sheet](Etale-covers-with-a-prescribed-exterior-sheet-September-24-2026.md) — *2026-09-24*
+- [020. Squarefree values of quartics and power-free values of polynomials](Squarefree-values-of-quartics-and-power-free-values-of-polynomials-September-24-2026.md) — *2026-09-24*
+- [021. A quadratic bound for Jacobsthal's function](A-quadratic-bound-for-Jacobsthals-function-September-25-2026.md) — *2026-09-25*
+- [022. The Weak Inhomogeneous Duffin–Schaeffer Conjecture](The-weak-inhomogeneous-Duffin-Schaeffer-conjecture-September-25-2026.md) — *2026-09-25*
+- [023. An unconditional first moment for cubic Gauss sums](An-unconditional-first-moment-for-cubic-Gauss-sums-September-25-2026.md) — *2026-09-25*
+- [024. An asymptotic formula for the number of totients](An-asymptotic-formula-for-the-number-of-totients-September-25-2026.md) — *2026-09-25*
+- [025. Short Egyptian fractions](Short-Egyptian-fractions-September-25-2026.md) — *2026-09-25*
+- [026. Positive lower density of large prime gaps](Positive-lower-density-of-large-prime-gaps-September-25-2026.md) — *2026-09-25*
+- [027. Integral points on character varieties of curves](Integral-points-on-character-varieties-of-curves-September-25-2026.md) — *2026-09-25*
+- [028. Bounded-Step Walks on Gaussian Primes](Bounded-Step-Walks-on-Gaussian-Primes-September-26-2026.md) — *2026-09-26*
+- [029. Primitive roots for every admissible integer base](Primitive-roots-for-every-admissible-integer-base-October-4-2026.md) — *2026-10-04*
+- [029. Simultaneous primitive roots: a conditional lower bound for prime bases](Simultaneous-primitive-roots-a-conditional-lower-bound-for-prime-bases-October-4-2026.md) — *2026-10-04*
+- [030. Modularity of elliptic curves over imaginary quadratic fields](Modularity-of-elliptic-curves-over-imaginary-quadratic-fields-October-4-2026.md) — *2026-10-04*
+- [031. Open Homomorphisms of Global Solvably Closed Galois Groups](Open-Homomorphisms-of-Global-Solvably-Closed-Galois-Groups-October-5-2026.md) — *2026-10-05*
+- [032. A Conditional Reduction for Algebraic Kuga–Satake Correspondences](A-Conditional-Reduction-for-Algebraic-Kuga-Satake-Correspondences-September-10-2026.md) — *2026-09-10*
+- [032. Abelian covers, Gale correspondences, and the Hodge conjecture for powers](Abelian-covers-Gale-correspondences-and-the-Hodge-conjecture-for-powers-October-6-2026.md) — *2026-10-06*
+- [032. Algebraic Kuga–Satake correspondences and Hodge conjectures on a K3 quadratic locus](Algebraic-Kuga-Satake-correspondences-and-Hodge-conjectures-on-a-K3-quadratic-locus-September-30-2026.md) — *2026-09-30*
+- [032. The rational Hodge conjecture for CM abelian varieties](The-rational-Hodge-conjecture-for-CM-abelian-varieties-October-6-2026.md) — *2026-10-06*
+- [032. Weil classes and Hodge classes on abelian powers](Weil-classes-and-Hodge-classes-on-abelian-powers-October-6-2026.md) — *2026-10-06*
+- [033. B-semiampleness for compact log-smooth Kähler fibrations](B-semiampleness-for-compact-log-smooth-Kahler-fibrations-September-10-2026.md) — *2026-09-10*
+- [033. Logarithmic Kodaira dimension and whole-fiber variation](Logarithmic-Kodaira-dimension-and-whole-fiber-variation-September-26-2026.md) — *2026-09-26*
+- [033. Orbifold and logarithmic Iitaka subadditivity](Orbifold-and-logarithmic-Iitaka-subadditivity-September-26-2026.md) — *2026-09-26*
+- [033. Projective Hodge lines and ordinary Iitaka subadditivity](Projective-Hodge-lines-and-ordinary-Iitaka-subadditivity-September-27-2026.md) — *2026-09-27*
+- [033. The reverse logarithmic Kodaira inequality and additivity](The-reverse-logarithmic-Kodaira-inequality-and-additivity-September-26-2026.md) — *2026-09-26*
+- [034. Abundance after nonvanishing for compact Kähler fourfolds](Abundance-after-nonvanishing-for-compact-Kahler-fourfolds-September-27-2026.md) — *2026-09-27*
+- [034. Arithmetic Stein-degree bounds for log Calabi–Yau pairs](Arithmetic-Stein-degree-bounds-for-log-Calabi-Yau-pairs-September-25-2026.md) — *2026-09-25*
+- [034. Conditional good minimal models for compact Kähler fourfolds](Conditional-good-minimal-models-for-compact-Kahler-fourfolds-October-6-2026.md) — *2026-10-06*
+- [034. Fourfold nonvanishing by minimal metrics and moving jets](Fourfold-nonvanishing-by-minimal-metrics-and-moving-jets-September-27-2026.md) — *2026-09-27*
+- [034. Lifting sections from the reduced support of an adjoint](Lifting-sections-from-the-reduced-support-of-an-adjoint-September-27-2026.md) — *2026-09-27*
+- [034. Log abundance for compact Kähler spaces under logarithmic Iitaka subadditivity](Log-abundance-for-compact-Kahler-spaces-under-logarithmic-Iitaka-subadditivity-October-6-2026.md) — *2026-10-06*
+- [034. Log abundance in characteristic zero](Log-abundance-in-characteristic-zero-September-24-2026.md) — *2026-09-24*
+- [034. Minimal metrics and interior injectivity for nef adjoints](Minimal-metrics-and-interior-injectivity-for-nef-adjoints-September-27-2026.md) — *2026-09-27*
+- [034. Relative denominators and effective systems for log Calabi-Yau fibrations](Relative-denominators-and-effective-systems-for-log-Calabi-Yau-fibrations-September-27-2026.md) — *2026-09-27*
+- [034. Schnell fiber spaces and good canonical models](Schnell-fiber-spaces-and-good-canonical-models-September-24-2026.md) — *2026-09-24*
+- [034. Uniform effective log Iitaka fibrations for fourfolds](Uniform-effective-log-Iitaka-fibrations-for-fourfolds-September-26-2026.md) — *2026-09-26*
+- [034. Uniform indices for semi-log-canonical log Calabi–Yau pairs](Uniform-indices-for-semi-log-canonical-log-Calabi-Yau-pairs-October-5-2026.md) — *2026-10-05*
+- [034. Uniform log Iitaka fibrations and bounded moduli denominators](Uniform-log-Iitaka-fibrations-and-bounded-moduli-denominators-October-4-2026.md) — *2026-10-04*
+- [034. Uniform Pluricanonical Iitaka Fibrations](Uniform-Pluricanonical-Iitaka-Fibrations-October-3-2026.md) — *2026-10-03*
+- [035. Abundance in numerical dimension one for terminal threefolds in positive characteristic](Abundance-in-numerical-dimension-one-for-terminal-threefolds-in-positive-characteristic-September-24-2026.md) — *2026-09-24*
+- [035. Log abundance in numerical dimension one for threefolds in positive characteristic](Log-abundance-in-numerical-dimension-one-for-threefolds-in-positive-characteristic-October-5-2026.md) — *2026-10-05*
+- [036. Minimal models and Mori fibre spaces for generalized log canonical Q-pairs](Minimal-models-and-Mori-fibre-spaces-for-generalized-log-canonical-Q-pairs-September-24-2026.md) — *2026-09-24*
+- [036. Minimal models in numerical dimension one](Minimal-models-in-numerical-dimension-one-September-24-2026.md) — *2026-09-24*
+- [036. Numerical semiampleness of nef adjoint classes on compact Kähler manifolds](Numerical-semiampleness-of-nef-adjoint-classes-on-compact-Kahler-manifolds-October-6-2026.md) — *2026-10-06*
+- [036. Numerical Semiampleness of Nef Adjoint Divisors](Numerical-Semiampleness-of-Nef-Adjoint-Divisors-October-3-2026.md) — *2026-10-03*
+- [037. The normalized-volume gap in dimension four](The-normalized-volume-gap-in-dimension-four-September-24-2026.md) — *2026-09-24*
+- [037. The ordinary-double-point gap in every dimension](The-ordinary-double-point-gap-in-every-dimension-September-24-2026.md) — *2026-09-24*
+- [038. Fujita's freeness conjecture](Fujitas-freeness-conjecture-September-23-2026.md) — *2026-09-23*
+- [039. Maximal Multipoint Seshadri Constants in Higher Dimensions](Maximal-Multipoint-Seshadri-Constants-in-Higher-Dimensions-October-5-2026.md) — *2026-10-05*
+- [039. Maximal multipoint Seshadri constants in positive characteristic](Maximal-multipoint-Seshadri-constants-in-positive-characteristic-October-5-2026.md) — *2026-10-05*
+- [039. Maximal Seshadri constants on arbitrary polarized surfaces](Maximal-Seshadri-Constants-on-Arbitrary-Polarized-Surfaces-September-23-2026.md) — *2026-09-23*
+- [039. Nagata's conjecture for plane curves](Nagatas-Conjecture-for-Plane-Curves-September-23-2026.md) — *2026-09-23*
+- [040. Bloch’s conjecture for surfaces with p_g=0](Blochs-Conjecture-for-Surfaces-with-pg-equals-q-equals-0-September-24-2026.md) — *2026-09-24*
+- [041. Projective-space bases of Lagrangian fibrations](Projective-Space-Bases-of-Lagrangian-Fibrations-September-23-2026.md) — *2026-09-23*
+- [041. The strong hyperkähler SYZ conjecture](The-Strong-Hyperkahler-SYZ-Conjecture-September-23-2026.md) — *2026-09-23*
+- [042. Every complex K3 surface is Oka](Every-complex-K3-surface-is-Oka-September-23-2026.md) — *2026-09-23*
+- [043. P=W in composite rank for fixed determinant](P-equals-W-in-composite-rank-for-fixed-determinant-September-24-2026.md) — *2026-09-24*
+- [044. The equivariant cohomological Hikita conjecture for arbitrary quivers](The-equivariant-cohomological-Hikita-conjecture-for-arbitrary-quivers-September-24-2026.md) — *2026-09-24*
+- [046. A projective fourfold with large fundamental group and non-Stein universal cover](A-projective-fourfold-with-large-fundamental-group-and-non-Stein-universal-cover-October-5-2026.md) — *2026-10-05*
+- [046. A surface counterexample to Shafarevich holomorphic convexity](A-surface-counterexample-to-Shafarevich-holomorphic-convexity-September-23-2026.md) — *2026-09-23*
+- [047. An explicit failure of complex affine-space cancellation](An-explicit-failure-of-complex-affine-space-cancellation-September-23-2026.md) — *2026-09-23*
+- [048. A singular normal affine surface with free tangent sheaf](A-singular-normal-affine-surface-with-free-tangent-sheaf-September-23-2026.md) — *2026-09-23*
+- [049. A stable coordinate that is not a coordinate in four variables](A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026.md) — *2026-10-05*
+- [049. An explicit noncoordinate polynomial with affine three-space zero fibre](An-explicit-noncoordinate-polynomial-with-affine-three-space-zero-fibre-September-24-2026.md) — *2026-09-24*
+- [050. Ample rank-two bundles on the quadric surface without Griffiths-positive metrics](ample-rank-two-bundles-on-the-quadric-surface-without-griffiths-positive-metrics-September-24-2026.md) — *2026-09-24*
+- [051. Canonical ampleness of compact hyperbolic Kähler manifolds](Canonical-ampleness-of-compact-hyperbolic-Kahler-manifolds-September-23-2026.md) — *2026-09-23*
+- [052. Integrability of split tangent bundles on rationally connected manifolds](Integrability-of-split-tangent-bundles-on-rationally-connected-manifolds-September-23-2026.md) — *2026-09-23*
+- [052. Universal-cover splitting for compact Kähler manifolds](Universal-cover-splitting-for-compact-Kahler-manifolds-September-23-2026.md) — *2026-09-23*
+- [053. A high-arity counterexample to Pixton completeness in Chow](A-high-arity-counterexample-to-Pixton-completeness-in-Chow-September-24-2026.md) — *2026-09-24*
+- [054. Irrational cubic fourfolds with geometric K3 categories](Irrational-cubic-fourfolds-with-geometric-K3-categories-September-24-2026.md) — *2026-09-24*
+- [055. A Gepner stability condition on every smooth quintic threefold](A-Gepner-stability-condition-on-every-smooth-quintic-threefold-September-24-2026.md) — *2026-09-24*
+- [055. Prescribed large-volume charges on threefolds with trivial canonical bundle](Prescribed-large-volume-charges-on-threefolds-with-trivial-canonical-bundle-September-24-2026.md) — *2026-09-24*
+- [056. Finite ordinary minimal model programs on compact Kähler fourfolds](Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-October-6-2026.md) — *2026-10-06*
+- [056. Finite ordinary minimal model programs on compact Kähler fourfolds](Finite-ordinary-minimal-model-programs-on-compact-Kahler-fourfolds-September-24-2026.md) — *2026-09-24*
+- [056. Termination for projective log canonical fourfolds with rational boundary](Termination-for-projective-log-canonical-fourfolds-with-rational-boundary-September-24-2026.md) — *2026-09-24*
+- [056. Termination of generalized log canonical flips on compact Kähler fourfolds](Termination-of-generalized-log-canonical-flips-on-compact-Kahler-fourfolds-October-7-2026.md) — *2026-10-07*
+- [056. Termination of generalized-canonical flips on compact Kähler fourfolds](Termination-of-generalized-canonical-flips-on-compact-Kahler-fourfolds-October-6-2026.md) — *2026-10-06*
+- [057. A conditional abelianity theorem for special fourfold pairs with a half-weight divisor](A-conditional-abelianity-theorem-for-special-fourfold-pairs-with-a-half-weight-divisor-October-5-2026.md) — *2026-10-05*
+- [057. The abelianity conjecture for special compact Kähler manifolds](The-abelianity-conjecture-for-special-compact-Kahler-manifolds-September-23-2026.md) — *2026-09-23*
+- [057. Two-step monodromy of special quasi-projective varieties](Two-step-monodromy-of-special-quasi-projective-varieties-September-24-2026.md) — *2026-09-24*
+- [058. Semialgebraic universal covers of normal projective varieties](Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026.md) — *2026-09-24*
+- [058. Symmetry of semialgebraic bounded domains with compact quotient](Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026.md) — *2026-09-24*
+- [059. Ambiently homeomorphic isolated hypersurface germs in ℂ⁴ with multiplicities four and five](Ambiently-homeomorphic-isolated-hypersurface-germs-in-C4-with-multiplicities-four-and-five-September-27-2026.md) — *2026-09-27*
+- [059. Ambiently homeomorphic isolated hypersurfaces of multiplicities two and three](Ambiently-homeomorphic-isolated-hypersurfaces-of-multiplicities-two-and-three-September-24-2026.md) — *2026-09-24*
+- [060. Global Spherical Shells on Minimal Surfaces of Class VII](Global-Spherical-Shells-on-Minimal-Surfaces-of-Class-VII-September-24-2026.md) — *2026-09-24*
+- [062. Contact Fano manifolds and the LeBrun–Salamon conjecture](Contact-Fano-manifolds-and-the-LeBrun-Salamon-conjecture-September-23-2026.md) — *2026-09-23*
+- [063. The generalized Mukai conjecture](The-Generalized-Mukai-Conjecture-September-24-2026.md) — *2026-09-24*
+- [064. Topological triviality of mu-constant families of surface singularities](Topological-triviality-of-mu-constant-families-of-surface-singularities-September-24-2026.md) — *2026-09-24*
+- [065. Virasoro Constraints for Projective Complete Intersections](Virasoro-Constraints-for-Projective-Complete-Intersections-September-24-2026.md) — *2026-09-24*
+- [065. Virasoro Constraints under Projectivization](Virasoro-Constraints-under-Projectivization-October-5-2026.md) — *2026-10-05*
+- [066. Bounded klt complements for Fano contractions](Bounded-klt-complements-for-Fano-contractions-September-25-2026.md) — *2026-09-25*
+- [066. Uniform Cartier sections for Fano type contractions](Uniform-Cartier-sections-for-Fano-type-contractions-September-25-2026.md) — *2026-09-25*
+- [067. The Campana–Peternell conjecture in dimension six](The-Campana-Peternell-conjecture-in-dimension-six-September-25-2026.md) — *2026-09-25*
+- [068. Anticanonical nonvanishing from smooth semipositivity](Anticanonical-nonvanishing-from-smooth-semipositivity-September-26-2026.md) — *2026-09-26*
+- [068. Bounded anticanonical metrics on klt pairs and torus quotients](Bounded-anticanonical-metrics-on-klt-pairs-and-torus-quotients-September-26-2026.md) — *2026-09-26*
+- [068. Cohomological transfer and equivariant anticanonical sections](Cohomological-transfer-and-equivariant-anticanonical-sections-September-26-2026.md) — *2026-09-26*
+- [068. Exact orders and invariant anticanonical linear systems](Exact-orders-and-invariant-anticanonical-linear-systems-September-26-2026.md) — *2026-09-26*
+- [068. Integrable metrics and effectivity with controlled boundary](Integrable-metrics-and-effectivity-with-controlled-boundary-September-26-2026.md) — *2026-09-26*
+- [068. Invariant anticanonical indices and conversion of twisted differentials](Invariant-anticanonical-indices-and-conversion-of-twisted-differentials-September-26-2026.md) — *2026-09-26*
+- [068. Metric descent and rank-preserving contractions](Metric-descent-and-rank-preserving-contractions-September-26-2026.md) — *2026-09-26*
+- [069. Global quantum geometric Langlands at irrational level](Global-quantum-geometric-Langlands-at-irrational-level-October-4-2026.md) — *2026-10-04*
+- [071. Koebe's Circle-Domain Conjecture](Koebes-Circle-Domain-Conjecture-September-23-2026.md) — *2026-09-23*
+- [071. Removable Boundaries and Rigidity of Circle Domains](Removable-Boundaries-and-Rigidity-of-Circle-Domains-September-23-2026.md) — *2026-09-23*
+- [072. A strict inverse-first-power bound for univalent functions](A-strict-inverse-first-power-bound-for-univalent-functions-September-24-2026.md) — *2026-09-24*
+- [072. Brennan's conjecture and sharp inverse-square integral means](Brennans-conjecture-and-sharp-inverse-square-integral-means-September-24-2026.md) — *2026-09-24*
+- [073. The Falconer distance conjecture in all dimensions](The-Falconer-distance-conjecture-in-all-dimensions-September-23-2026.md) — *2026-09-23*
+- [074. Every four-dimensional Kakeya set has full Hausdorff dimension](Every-four-dimensional-Kakeya-set-has-full-Hausdorff-dimension-September-24-2026.md) — *2026-09-24*
+- [074. The Kakeya maximal conjecture in three dimensions](The-Kakeya-maximal-conjecture-in-three-dimensions-September-23-2026.md) — *2026-09-23*
+- [075. Almost-everywhere Fourier convergence in L log L](Almost-everywhere-Fourier-convergence-in-L-log-L-September-23-2026.md) — *2026-09-23*
+- [076. Asymptotically minimal maxima of real Littlewood polynomials](Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026.md) — *2026-09-23*
+- [076. Nearly minimal maxima and positive minima of Littlewood polynomials](Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026.md) — *2026-10-05*
+- [076. Ultraflat real Littlewood polynomials](Ultraflat-real-Littlewood-polynomials-October-5-2026.md) — *2026-10-05*
+- [077. Diagonal Fourier extension for positively curved surfaces in three dimensions](Diagonal-Fourier-extension-for-positively-curved-surfaces-in-three-dimensions-September-24-2026.md) — *2026-09-24*
+- [077. Elliptic capacity propagation and Fourier restriction to the sphere](Elliptic-capacity-propagation-and-Fourier-restriction-to-the-sphere-September-24-2026.md) — *2026-09-24*
+- [078. Bochner–Riesz multipliers in three dimensions](Bochner-Riesz-Multipliers-in-Three-Dimensions-September-24-2026.md) — *2026-09-24*
+- [079. Critical local smoothing for the three-dimensional wave equation](Critical-local-smoothing-for-the-three-dimensional-wave-equation-September-24-2026.md) — *2026-09-24*
+- [080. Endpoint convergence for the planar Schrodinger equation](Endpoint-convergence-for-the-planar-Schrodinger-equation-September-24-2026.md) — *2026-09-24*
+- [080. Endpoint pointwise convergence for the Schrodinger equation in higher dimensions](Endpoint-pointwise-convergence-for-the-Schrodinger-equation-in-higher-dimensions-September-24-2026.md) — *2026-09-24*
+- [081. Riesz transforms and uniform rectifiability in higher codimension](Riesz-transforms-and-uniform-rectifiability-in-higher-codimension-September-24-2026.md) — *2026-09-24*
+- [082. An L³ bound for the dyadic triangular Hilbert form](An-L3-bound-for-the-dyadic-triangular-Hilbert-form-October-5-2026.md) — *2026-10-05*
+- [082. Annular variation of the triangular Hilbert transform at the symmetric point](Annular-variation-of-the-triangular-Hilbert-transform-at-the-symmetric-point-October-5-2026.md) — *2026-10-05*
+- [082. The maximal triangular Hilbert transform at the symmetric point](The-maximal-triangular-Hilbert-transform-at-the-symmetric-point-September-24-2026.md) — *2026-09-24*
+- [083. A uniform Hilbert transform estimate for Lipschitz directions](A-uniform-Hilbert-transform-estimate-for-Lipschitz-directions-September-25-2026.md) — *2026-09-25*
+- [084. The dyadic case of the Erdős similarity conjecture](The-dyadic-case-of-the-Erdos-similarity-conjecture-September-25-2026.md) — *2026-09-25*
+- [084. The geometric case of the Erdős similarity conjecture](The-geometric-case-of-the-Erdos-similarity-conjecture-October-5-2026.md) — *2026-10-05*
+- [085. An Endpoint Gradient Bound for the Centered Disk Maximal Operator](An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026.md) — *2026-09-26*
+- [086. An <i>L</i><sup>3</sup> bound for the trilinear Hilbert transform](An-L3-bound-for-the-trilinear-Hilbert-transform-October-5-2026.md) — *2026-10-05*
+- [087. Symplectic Balls in Symmetric Polar Products](Symplectic-Balls-in-Symmetric-Polar-Products-September-22-2026.md) — *2026-09-22*
+- [087. The Mahler Conjecture for General Convex Bodies](The-Mahler-Conjecture-for-General-Convex-Bodies-September-22-2026.md) — *2026-09-22*
+- [087. The symmetric Mahler conjecture and its equality cases](The-symmetric-Mahler-conjecture-and-its-equality-cases-September-22-2026.md) — *2026-09-22*
+- [088. A product counterexample to the simplex maximum for projection-body volume](A-product-counterexample-to-the-simplex-maximum-for-projection-body-volume-September-24-2026.md) — *2026-09-24*
+- [088. Petty’s projection-volume conjecture in dimensions at least four](Pettys-projection-volume-conjecture-in-dimensions-at-least-four-September-24-2026.md) — *2026-09-24*
+- [089. L1 Embeddings of Graphs of Bounded Treewidth](L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026.md) — *2026-09-23*
+- [089. Planar Graph Metrics Embed into L1 with Constant Distortion](Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026.md) — *2026-09-23*
+- [090. A sharp Fourier certificate for planar circle packing](A-sharp-Fourier-certificate-for-planar-circle-packing-September-23-2026.md) — *2026-09-23*
+- [090. An atomic certificate for triangular-lattice universal optimality](An-atomic-certificate-for-triangular-lattice-universal-optimality-September-26-2026.md) — *2026-09-26*
+- [090. Triangular minimality for planar Coulomb renormalized energy](Triangular-minimality-for-planar-Coulomb-renormalized-energy-September-23-2026.md) — *2026-09-23*
+- [090. Universal optimality of the triangular lattice](Universal-optimality-of-the-triangular-lattice-September-23-2026.md) — *2026-09-23*
+- [091. The logarithmic Brunn–Minkowski conjecture](The-logarithmic-Brunn-Minkowski-conjecture-September-23-2026.md) — *2026-09-23*
+- [092. A single-lattice covering bound of order n log n](A-single-lattice-covering-bound-of-order-n-log-n-September-23-2026.md) — *2026-09-23*
+- [092. Translative covering densities of order n log n](Translative-covering-densities-of-order-n-log-n-September-23-2026.md) — *2026-09-23*
+- [093. A dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures](A-dimension-free-logarithmic-Sobolev-inequality-for-subgaussian-log-concave-measures-September-23-2026.md) — *2026-09-23*
+- [094. Subpolynomial dimension reduction in Lp](Subpolynomial-dimension-reduction-in-Lp-September-23-2026.md) — *2026-09-23*
+- [095. A nonspectrahedral hyperbolicity cone](A-Nonspectrahedral-Hyperbolicity-Cone-September-24-2026.md) — *2026-09-24*
+- [095. An Exact Semidefinite Lift of a Nonspectrahedral Hyperbolicity Cone](An-Exact-Semidefinite-Lift-of-a-Nonspectrahedral-Hyperbolicity-Cone-October-5-2026.md) — *2026-10-05*
+- [095. Hyperbolicity Cones Without Semidefinite Lifts](Hyperbolicity-Cones-Without-Semidefinite-Lifts-October-5-2026.md) — *2026-10-05*
+- [096. The Gaussian propeller bound in every dimension](The-Gaussian-Propeller-Bound-in-Every-Dimension-September-24-2026.md) — *2026-09-24*
+- [097. The Euclidean Steinitz–Bergström theorem](The-Euclidean-Steinitz-Bergstrom-theorem-September-24-2026.md) — *2026-09-24*
+- [098. A doubling Hilbert subset with no finite-dimensional bi-Lipschitz embedding](A-doubling-Hilbert-subset-with-no-finite-dimensional-bi-Lipschitz-embedding-September-25-2026.md) — *2026-09-25*
+- [099. Edit Distance in l1: Matching Bounds up to Constants in the Exponent](Edit-Distance-in-l1-Matching-Bounds-up-to-Constants-in-the-Exponent-September-27-2026.md) — *2026-09-27*
+- [099. Finite-Circle Obstructions, Binary Codes, and Histogram Embeddings for Edit Distance](Finite-Circle-Obstructions-Binary-Codes-and-Histogram-Embeddings-for-Edit-Distance-September-27-2026.md) — *2026-09-27*
+- [099. Tree Constructions for the l1 Distortion of Binary Edit Distance](Tree-Constructions-for-the-l1-Distortion-of-Binary-Edit-Distance-September-27-2026.md) — *2026-09-27*
+- [100. Finite angular cylinder covers below the half-area bound](Finite-angular-cylinder-covers-below-the-half-area-bound-September-27-2026.md) — *2026-09-27*
+- [100. Finite cylinder approximation of ruled sets](Finite-cylinder-approximation-of-ruled-sets-September-27-2026.md) — *2026-09-27*
+- [100. Finite triangular approximation of radial sweeps](Finite-triangular-approximation-of-radial-sweeps-September-27-2026.md) — *2026-09-27*
+- [100. Slope-field perturbations of the two-cylinder covering](Slope-field-perturbations-of-the-two-cylinder-covering-September-27-2026.md) — *2026-09-27*
+- [101. A sharp entropy bound and the simplex inequality for isotropic constants](A-sharp-entropy-bound-and-the-simplex-inequality-for-isotropic-constants-October-5-2026.md) — *2026-10-05*
+- [102. A Direct Proof of Optimal Max-Cut Hardness](A-Direct-Proof-of-Optimal-Max-Cut-Hardness-September-23-2026.md) — *2026-09-23*
+- [102. Constant-factor hardness of directed feedback vertex set](Constant-factor-hardness-of-directed-feedback-vertex-set-September-23-2026.md) — *2026-09-23*
+- [102. Constant-factor hardness of Min-UnCut](Constant-factor-hardness-of-Min-UnCut-September-23-2026.md) — *2026-09-23*
+- [102. The Factor-Two Hardness Threshold for Vertex Cover](The-Factor-Two-Hardness-Threshold-for-Vertex-Cover-September-23-2026.md) — *2026-09-23*
+- [102. The Unique Games Theorem](The-Unique-Games-Theorem-September-23-2026.md) — *2026-09-23*
+- [103. Exact derandomization of logarithmic space: L = RL = BPL](Exact-Derandomization-of-Logarithmic-Space-L-equals-RL-equals-BPL-September-23-2026.md) — *2026-09-23*
+- [104. Deterministic quasipolynomial-time mean-payoff games](Deterministic-quasipolynomial-time-mean-payoff-games-September-25-2026.md) — *2026-09-25*
+- [104. Mean-payoff parity games in quasipolynomial time](Mean-payoff-parity-games-in-quasipolynomial-time-October-5-2026.md) — *2026-10-05*
+- [104. Randomized quasipolynomial-time mean-payoff games](Randomized-quasipolynomial-time-mean-payoff-games-September-25-2026.md) — *2026-09-25*
+- [104. Turn-Based Stochastic Mean-Payoff Games in Deterministic Quasipolynomial Time](Turn-Based-Stochastic-Mean-Payoff-Games-in-Deterministic-Quasipolynomial-Time-October-5-2026.md) — *2026-10-05*
+- [105. Perfect completeness for 2-to-1 games](Perfect-completeness-for-2-to-1-games-September-23-2026.md) — *2026-09-23*
+- [106. Hardness of finding large independent sets in three-colorable graphs](Hardness-of-finding-large-independent-sets-in-three-colorable-graphs-September-24-2026.md) — *2026-09-24*
+- [107. An Upper Bound of 9/4 for the Matrix Multiplication Exponent](Matrix-Multiplication-Nine-Fourths-October-2-2026.md) — *2026-10-02*
+- [107. Complex Matrix Multiplication Below 2.258 and Rectangular Bounds](Complex-Matrix-Multiplication-Below-2.258-and-Rectangular-Bounds-September-24-2026.md) — *2026-09-24*
+- [107. Staggered extraction for exact matrix multiplication over every field](Staggered-extraction-for-exact-matrix-multiplication-over-every-field-September-24-2026.md) — *2026-09-24*
+- [108. A cubic lower bound for border determinantal complexity of the permanent](A-cubic-lower-bound-for-border-determinantal-complexity-of-the-permanent-September-24-2026.md) — *2026-09-24*
+- [109. Integer multiplication below n log n](Integer-multiplication-below-n-log-n-September-23-2026.md) — *2026-09-23*
+- [110. Squared-logarithmic randomized k-server on arbitrary metrics](Squared-logarithmic-randomized-k-server-on-arbitrary-metrics-September-24-2026.md) — *2026-09-24*
+- [110. Uniform computation of the squared-logarithmic k-server bound](Uniform-computation-of-the-squared-logarithmic-k-server-bound-September-24-2026.md) — *2026-09-24*
+- [111. One Sample Suffices for Matroid Prophet Inequalities against an Almighty Adversary](One-Sample-Suffices-for-Matroid-Prophet-Inequalities-against-an-Almighty-Adversary-September-23-2026.md) — *2026-09-23*
+- [112. Beyond the Square-Root Exponent for Depth-Three Boolean Circuits](Beyond-the-Square-Root-Exponent-for-Depth-Three-Boolean-Circuits-September-23-2026.md) — *2026-09-23*
+- [113. A Fully Polynomial Randomized Approximation Scheme for Perfect Matchings in General Graphs](A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026.md) — *2026-09-23*
+- [113. Entropy and Face Dimension of the Perfect-Matching Polytope](Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026.md) — *2026-09-23*
+- [114. An FPRAS for Common Integer Polymatroid Bases with Binary Capacities](An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026.md) — *2026-10-05*
+- [114. Approximate counting of common bases of two matroids](Approximate-counting-of-common-bases-of-two-matroids-September-23-2026.md) — *2026-09-23*
+- [115. An FPRAS for Cell-Bounded Contingency Tables](An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026.md) — *2026-09-24*
+- [115. Exact Uniform Sampling of Contingency Tables with Arbitrary Margins](Exact-Uniform-Sampling-of-Contingency-Tables-with-Arbitrary-Margins-September-24-2026.md) — *2026-09-24*
+- [116. One Rational Matrix Hitting Point for Noncommutative Formulas](One-Rational-Matrix-Hitting-Point-for-Noncommutative-Formulas-September-24-2026.md) — *2026-09-24*
+- [116. Polynomial Hitting Lists for Noncommutative Rational Formulas](Polynomial-Hitting-Lists-for-Noncommutative-Rational-Formulas-September-24-2026.md) — *2026-09-24*
+- [116. Uniform Matrix Hitting Points in Every Positive Characteristic](Uniform-Matrix-Hitting-Points-in-Every-Positive-Characteristic-October-4-2026.md) — *2026-10-04*
+- [117. Constant-factor hardness of uniform sparsest cut](Constant-factor-hardness-of-uniform-sparsest-cut-September-24-2026.md) — *2026-09-24*
+- [117. Near-square-root logarithmic integrality gaps for uniform sparsest cut](Near-square-root-logarithmic-integrality-gaps-for-uniform-sparsest-cut-September-24-2026.md) — *2026-09-24*
+- [118. Additive hardness and unbounded configuration gaps in bin packing](Additive-hardness-and-unbounded-configuration-gaps-in-bin-packing-September-24-2026.md) — *2026-09-24*
+- [119. Hellinger contraction with arbitrary Boolean output bias](Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026.md) — *2026-09-24*
+- [119. Sharp binary-information contraction on the discrete cube](Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026.md) — *2026-09-24*
+- [120. Almost-Linear-Time Maximum-Cardinality Matching in General Graphs](Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026.md) — *2026-09-24*
+- [121. An Almost-Linear Approximation Scheme for Edit Distance](An-Almost-Linear-Approximation-Scheme-for-Edit-Distance-September-24-2026.md) — *2026-09-24*
+- [122. A latest-anchor induction with spectrally compact masks for worst-case trace reconstruction](A-latest-anchor-induction-with-spectrally-compact-masks-for-worst-case-trace-reconstruction-October-5-2026.md) — *2026-10-05*
+- [122. Quantitative lower bounds for trace reconstruction](quantitative-lower-bounds-for-trace-reconstruction-September-24-2026.md) — *2026-09-24*
+- [122. Uniform quasipolynomial-time trace reconstruction](Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026.md) — *2026-10-05*
+- [124. A Polynomial-Time Algorithm for Three-Machine Unit-Job Scheduling](A-polynomial-time-algorithm-for-three-machine-unit-job-scheduling-September-24-2026.md) — *2026-09-24*
+- [125. Single-exponential recovery and bounded-price strictness for metric k-median](Single-Exponential-Recovery-and-Bounded-Price-Strictness-for-Metric-k-Median-September-24-2026.md) — *2026-09-24*
+- [125. The approximation threshold for metric k-median](The-Approximation-Threshold-for-Metric-k-Median-September-24-2026.md) — *2026-09-24*
+- [126. Exponential PSD rank of positively shifted matching matrices](Exponential-PSD-rank-of-positively-shifted-matching-matrices-October-5-2026.md) — *2026-10-05*
+- [127. Average sensitivity of polynomial threshold functions](Average-Sensitivity-of-Polynomial-Threshold-Functions-September-25-2026.md) — *2026-09-25*
+- [128. A Polynomial-Time 2-Approximation for Shortest Common Superstring](A-Polynomial-Time-2-Approximation-for-Shortest-Common-Superstring-September-24-2026.md) — *2026-09-24*
+- [129. An exponential state lower bound for two-way nondeterministic complementation](An-exponential-state-lower-bound-for-two-way-nondeterministic-complementation-September-25-2026.md) — *2026-09-25*
+- [129. An exponential two-way deterministic state lower bound for one-way liveness](An-exponential-two-way-deterministic-state-lower-bound-for-one-way-liveness-September-25-2026.md) — *2026-09-25*
+- [130. An explicit power saving for the exact discrete Fourier transform](An-explicit-power-saving-for-the-exact-discrete-Fourier-transform-September-25-2026.md) — *2026-09-25*
+- [130. Finite tensor savings and exact Fourier circuits](Finite-tensor-savings-and-exact-Fourier-circuits-September-25-2026.md) — *2026-09-25*
+- [131. Polynomial mixing of the switch chain for every graphical degree sequence](Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026.md) — *2026-09-25*
+- [132. A superquadratic separation between sensitivity and block sensitivity](A-superquadratic-separation-between-sensitivity-and-block-sensitivity-September-25-2026.md) — *2026-09-25*
+- [133. Parity lifts and bounded-treewidth witnesses for Weisfeiler–Leman equivalence](Parity-lifts-and-bounded-treewidth-witnesses-for-Weisfeiler-Leman-equivalence-September-25-2026.md) — *2026-09-25*
+- [133. The complexity of identifying a graph by Weisfeiler–Leman refinement](The-complexity-of-identifying-a-graph-by-Weisfeiler-Leman-refinement-September-25-2026.md) — *2026-09-25*
+- [133. Unconditional time lower bounds for Weisfeiler–Leman equivalence](Unconditional-time-lower-bounds-for-Weisfeiler-Leman-equivalence-September-25-2026.md) — *2026-09-25*
+- [133. Variable-dimension Weisfeiler–Leman equivalence on general and subcubic graphs](Variable-dimension-Weisfeiler-Leman-equivalence-on-general-and-subcubic-graphs-September-25-2026.md) — *2026-09-25*
+- [134. Finite Monoid Computations and a Uniform Generalized Star-Height Bound](Finite-Monoid-Computations-and-a-Uniform-Generalized-Star-Height-Bound-September-25-2026.md) — *2026-09-25*
+- [134. Generalized Star Height at Most Four](Generalized-Star-Height-at-Most-Four-September-25-2026.md) — *2026-09-25*
+- [134. Generalized Star Height at Most Three](Generalized-Star-Height-at-Most-Three-September-25-2026.md) — *2026-09-25*
+- [135. Homogeneous depth-five lower bounds for iterated matrix multiplication](Homogeneous-depth-five-lower-bounds-for-iterated-matrix-multiplication-September-25-2026.md) — *2026-09-25*
+- [136. The PCP-for-PPAD conjecture: a quasilinear reduction](The-PCP-for-PPAD-conjecture-a-quasilinear-reduction-September-25-2026.md) — *2026-09-25*
+- [137. Simulating One-Tape Time in Two-Fifths-Power Space](Simulating-One-Tape-Time-in-Two-Fifths-Power-Space-September-25-2026.md) — *2026-09-25*
+- [138. A Low-Space Algorithm for Worst-Case Subset Sum](A-Low-Space-Algorithm-for-Worst-Case-Subset-Sum-September-26-2026.md) — *2026-09-26*
+- [138. Subset Sum in Time $`O(2^{0.49n})`$ ](Subset-Sum-in-Time-2-power-0-49n-October-4-2026.md) — *2026-10-04*
+- [139. Subpolynomial query complexity for well-conditioned log-concave sampling](Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026.md) — *2026-09-26*
+- [140. Localization costs and information growth for exact Gaussian observations](Localization-costs-and-information-growth-for-exact-Gaussian-observations-September-27-2026.md) — *2026-09-27*
+- [140. Memory and precision in noiseless Gaussian regression](Memory-and-precision-in-noiseless-Gaussian-regression-September-27-2026.md) — *2026-09-27*
+- [140. Posterior replicas and conditional information in Gaussian regression](Posterior-replicas-and-conditional-information-in-Gaussian-regression-September-27-2026.md) — *2026-09-27*
+- [140. Projection moments, positive cap domination, and Riesz estimates on the sphere](Projection-moments-positive-cap-domination-and-Riesz-estimates-on-the-sphere-September-27-2026.md) — *2026-09-27*
+- [140. Replacing Gaussian observations in memory-constrained inference](Replacing-Gaussian-observations-in-memory-constrained-inference-September-27-2026.md) — *2026-09-27*
+- [140. Subsphere methods for memory-sample lower bounds in noiseless Gaussian regression](Subsphere-methods-for-memory-sample-lower-bounds-in-noiseless-Gaussian-regression-September-27-2026.md) — *2026-09-27*
+- [141. Existential–universal real sentences in the counting hierarchy](Existential-universal-real-sentences-in-the-counting-hierarchy-October-4-2026.md) — *2026-10-04*
+- [142. Deterministic Polynomial Factorization over Prime Fields](Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026.md) — *2026-10-04*
+- [143. Two limit cycles for quintic Liénard systems](two-limit-cycles-for-quintic-lienard-systems-September-24-2026.md) — *2026-09-24*
+- [143. Uniform bounds for planar polynomial limit cycles](uniform-bounds-for-planar-polynomial-limit-cycles-September-24-2026.md) — *2026-09-24*
+- [144. A smooth three-torus diffeomorphism with simple Lebesgue spectrum](A-smooth-three-torus-diffeomorphism-with-simple-Lebesgue-spectrum-September-23-2026.md) — *2026-09-23*
+- [145. Rokhlin's multiple-mixing problem for one transformation](Rokhlins-multiple-mixing-problem-for-one-transformation-September-23-2026.md) — *2026-09-23*
+- [146. Positive Metric Entropy for the Standard Map at Large Parameters](Positive-Metric-Entropy-for-the-Standard-Map-at-Large-Parameters-September-23-2026.md) — *2026-09-23*
+- [147. Continuous Phase Foliations Create Analytic Caustic Collars](Continuous-Phase-Foliations-Create-Analytic-Caustic-Collars-September-24-2026.md) — *2026-09-24*
+- [147. Rigidity of Smooth Billiards with a Continuous Caustic Collar](Rigidity-of-Smooth-Billiards-with-a-Continuous-Caustic-Collar-September-24-2026.md) — *2026-09-24*
+- [148. The entropy-rate dimension formula for self-similar measures on the line](The-entropy-rate-dimension-formula-for-self-similar-measures-on-the-line-September-24-2026.md) — *2026-09-24*
+- [149. Boundedness and persistence of weakly reversible mass-action systems](Boundedness-and-persistence-of-weakly-reversible-mass-action-systems-September-25-2026.md) — *2026-09-25*
+- [149. Uniform Permanence in Weakly Reversible Mass-Action Systems](Uniform-Permanence-in-Weakly-Reversible-Mass-Action-Systems-October-5-2026.md) — *2026-10-05*
+- [150. Ergodicity of triangular billiards with an irrational angle](Ergodicity-of-triangular-billiards-with-an-irrational-angle-September-25-2026.md) — *2026-09-25*
+- [150. Weak mixing of triangular billiards with an irrational angle](Weak-mixing-of-triangular-billiards-with-an-irrational-angle-October-5-2026.md) — *2026-10-05*
+- [151. A C^1 Counterexample to the Entropy Conjecture](A-C1-Counterexample-to-the-Entropy-Conjecture-September-25-2026.md) — *2026-09-25*
+- [152. A zero-entropy system without a smooth positive-volume model](A-finite-entropy-system-without-a-smooth-positive-volume-model-September-25-2026.md) — *2026-09-25*
+- [153. Arithmetic classification and non-Pisot singularity for Bernoulli convolutions](Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026.md) — *2026-10-03*
+- [154. Pointwise convergence of fourfold ergodic averages for mixing transformations](Pointwise-convergence-of-fourfold-ergodic-averages-for-mixing-transformations-October-4-2026.md) — *2026-10-04*
+- [154. Pointwise convergence of triple ergodic averages for mixing transformations](Pointwise-convergence-of-triple-ergodic-averages-for-mixing-transformations-October-4-2026.md) — *2026-10-04*
+- [154. Pointwise Multiple Ergodic Averages for Mixing Transformations](Pointwise-Multiple-Ergodic-Averages-for-Mixing-Transformations-October-4-2026.md) — *2026-10-04*
+- [154. Triple ergodic averages with distinct integer slopes](Triple-ergodic-averages-with-distinct-integer-slopes-October-4-2026.md) — *2026-10-04*
+- [155. A translational tile with no fully periodic tiling in dimension three](A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026.md) — *2026-09-23*
+- [156. A nine-dimensional counterexample to Borsuk's covering assertion](A-nine-dimensional-counterexample-to-Borsuks-covering-assertion-September-23-2026.md) — *2026-09-23*
+- [157. A counterexample to Hadwiger's conjecture](A-counterexample-to-Hadwigers-conjecture-September-23-2026.md) — *2026-09-23*
+- [157. A counterexample to the Colin de Verdière chromatic conjecture](A-counterexample-to-the-Colin-de-Verdiere-chromatic-conjecture-September-23-2026.md) — *2026-09-23*
+- [157. A linear list-coloring bound in terms of the Hadwiger number](A-linear-list-coloring-bound-in-terms-of-the-Hadwiger-number-September-23-2026.md) — *2026-09-23*
+- [158. The Euclidean plane is not five-colorable](The-Euclidean-plane-is-not-five-colorable-September-23-2026.md) — *2026-09-23*
+- [159. Quasipolynomial Bounds for Arithmetic Progressions](Quasipolynomial-Bounds-for-Arithmetic-Progressions-September-23-2026.md) — *2026-09-23*
+- [160. Quantitative Superexponential Bounds for van der Waerden Numbers](Quantitative-Superexponential-Bounds-for-van-der-Waerden-Numbers-September-23-2026.md) — *2026-09-23*
+- [161. A counterexample to Sidorenko's conjecture](A-counterexample-to-Sidorenkos-conjecture-September-23-2026.md) — *2026-09-23*
+- [162. A counterexample to Ryser's covering conjecture](A-Counterexample-to-Rysers-Covering-Conjecture-September-23-2026.md) — *2026-09-23*
+- [162. Balanced counterexamples to Ryser's conjecture at prime orders](Balanced-Counterexamples-to-Rysers-Conjecture-at-Prime-Orders-September-27-2026.md) — *2026-09-27*
+- [164. Monochromatic finite sums and products in the positive integers](Monochromatic-finite-sums-and-products-in-the-positive-integers-September-23-2026.md) — *2026-09-23*
+- [165. The crossing number of complete bipartite graphs](The-crossing-number-of-complete-bipartite-graphs-September-23-2026.md) — *2026-09-23*
+- [165. The crossing number of complete graphs](The-crossing-number-of-complete-graphs-September-23-2026.md) — *2026-09-23*
+- [166. The higher-dimensional Erdős distinct-distances conjecture](The-higher-dimensional-Erdos-distinct-distances-conjecture-September-23-2026.md) — *2026-09-23*
+- [167. A power saving for planar unit distances](A-power-saving-for-planar-unit-distances-September-23-2026.md) — *2026-09-23*
+- [167. The weak pinned planar distance theorem](The-weak-pinned-planar-distance-theorem-September-23-2026.md) — *2026-09-23*
+- [168. Combinatorial invariance of Kazhdan–Lusztig polynomials](Combinatorial-Invariance-of-Kazhdan-Lusztig-Polynomials-September-24-2026.md) — *2026-09-24*
+- [169. Elementary positivity of chromatic quasisymmetric functions](Elementary-Positivity-of-Chromatic-Quasisymmetric-Functions-September-24-2026.md) — *2026-09-24*
+- [170. Sharp logarithmic exponents for fixed off-diagonal Ramsey numbers](Sharp-Logarithmic-Exponents-for-Fixed-Off-Diagonal-Ramsey-Numbers-September-24-2026.md) — *2026-09-24*
+- [170. The sharp logarithmic exponent of r(5,t)](The-Sharp-Logarithmic-Exponent-of-r-5-t-September-24-2026.md) — *2026-09-24*
+- [171. The hypercube Ramsey number has linear order](The-hypercube-Ramsey-number-has-linear-order-September-23-2026.md) — *2026-09-23*
+- [172. A classification of finite Euclidean Ramsey configurations](A-classification-of-finite-Euclidean-Ramsey-configurations-September-23-2026.md) — *2026-09-23*
+- [173. A proof of Seymour’s second-neighborhood conjecture](A-proof-of-Seymours-second-neighborhood-conjecture-September-23-2026.md) — *2026-09-23*
+- [174. A polynomial-time construction of strong thin trees](A-polynomial-time-construction-of-strong-thin-trees-September-23-2026.md) — *2026-09-23*
+- [174. The strong thin tree conjecture](The-strong-thin-tree-conjecture-September-23-2026.md) — *2026-09-23*
+- [175. Graph Decompositions at the Integral Expectation Threshold](Graph-Decompositions-at-the-Integral-Expectation-Threshold-October-5-2026.md) — *2026-10-05*
+- [175. Integral and fractional expectation thresholds are equivalent](Integral-and-fractional-expectation-thresholds-are-equivalent-September-23-2026.md) — *2026-09-23*
+- [175. Talagrand’s discrete-convexity conjecture](Talagrands-discrete-convexity-conjecture-September-23-2026.md) — *2026-09-23*
+- [176. The second Kahn–Kalai conjecture](The-second-Kahn-Kalai-conjecture-September-24-2026.md) — *2026-09-24*
+- [177. Bounded-degree coboundary expanders in every dimension](Bounded-degree-coboundary-expanders-in-every-dimension-September-24-2026.md) — *2026-09-24*
+- [178. Deterministic nonbipartite Ramanujan graphs in every fixed degree](Deterministic-nonbipartite-Ramanujan-graphs-in-every-fixed-degree-September-23-2026.md) — *2026-09-23*
+- [179. The circulant Hadamard conjecture](The-circulant-Hadamard-conjecture-September-23-2026.md) — *2026-09-23*
+- [180. Paired states and Hamiltonian cycles in cubic bipartite planar graphs](Paired-states-and-Hamiltonian-cycles-in-cubic-bipartite-planar-graphs-September-24-2026.md) — *2026-09-24*
+- [181. A linear cycle-and-edge decomposition of every graph](A-linear-cycle-and-edge-decomposition-of-every-graph-September-24-2026.md) — *2026-09-24*
+- [182. A power saving for intersective polynomial differences with an exponent depending only on the degree](A-power-saving-for-intersective-polynomial-differences-with-an-exponent-depending-only-on-the-degree-October-5-2026.md) — *2026-10-05*
+- [182. A Power Saving for Polynomial Differences at Prime Arguments](A-Power-Saving-for-Polynomial-Differences-at-Prime-Arguments-October-5-2026.md) — *2026-10-05*
+- [182. A power saving for square-difference-free sets](A-power-saving-for-square-difference-free-sets-September-24-2026.md) — *2026-09-24*
+- [183. A power saving for planar halving lines](A-power-saving-for-planar-halving-lines-September-25-2026.md) — *2026-09-25*
+- [184. A logarithmic independence bound for clique-free graphs](A-Logarithmic-Independence-Bound-for-Clique-Free-Graphs-September-25-2026.md) — *2026-09-25*
+- [184. Correspondence coloring graphs with a forbidden clique](Correspondence-Coloring-Graphs-with-a-Forbidden-Clique-October-5-2026.md) — *2026-10-05*
+- [185. A Counterexample to the Infinite Matroid Packing/Covering Conjecture](A-Counterexample-to-the-Infinite-Matroid-Packing-Covering-Conjecture-September-24-2026.md) — *2026-09-24*
+- [186. A Sharp Threshold Bound for Monotone Graph Properties](A-Sharp-Threshold-Bound-for-Monotone-Graph-Properties-September-25-2026.md) — *2026-09-25*
+- [186. A uniform influence bound for hypergraph properties](A-uniform-influence-bound-for-hypergraph-properties-October-5-2026.md) — *2026-10-05*
+- [187. Snaky in 21 Maker moves](Snaky-in-21-Maker-moves-September-25-2026.md) — *2026-09-25*
+- [188. The sharp terminal leave in random triangle removal](The-Sharp-Terminal-Leave-in-Random-Triangle-Removal-September-25-2026.md) — *2026-09-25*
+- [189. Cycle--clique Ramsey numbers](Cycle-clique-Ramsey-numbers-September-25-2026.md) — *2026-09-25*
+- [190. Polynomial removal fails for ordered binary matrices](Polynomial-removal-fails-for-ordered-binary-matrices-September-25-2026.md) — *2026-09-25*
+- [191. A power improvement in the Heilbronn triangle lower bound](A-power-improvement-in-the-Heilbronn-triangle-lower-bound-September-25-2026.md) — *2026-09-25*
+- [192. Unbounded Violations of the Square-Root Degree Bound](Unbounded-Violations-of-the-Square-Root-Degree-Bound-September-26-2026.md) — *2026-09-26*
+- [193. Positivity of Serre's Intersection Multiplicity](Positivity-of-Serres-Intersection-Multiplicity-September-23-2026.md) — *2026-09-23*
+- [194. Lech's multiplicity conjecture](Lechs-multiplicity-conjecture-September-23-2026.md) — *2026-09-23*
+- [195. A Complete Local Domain without a Small Cohen–Macaulay Module](A-Complete-Local-Domain-Without-a-Small-Cohen-Macaulay-Module-September-23-2026.md) — *2026-09-23*
+- [196. A Torsion-Free Group Algebra with Zero Divisors](A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026.md) — *2026-09-23*
+- [197. A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Characteristic Two](A-Counterexample-to-Kaplanskys-Direct-Finiteness-Conjecture-in-Characteristic-Two-September-23-2026.md) — *2026-09-23*
+- [197. A Counterexample to Kaplansky's Direct-Finiteness Conjecture in Odd Characteristic](A-Counterexample-to-Kaplanskys-Direct-Finiteness-Conjecture-in-Odd-Characteristic-September-26-2026.md) — *2026-09-26*
+- [197. A Counterexample to the Group-Ring Determinant Conjecture](A-Counterexample-to-the-Group-Ring-Determinant-Conjecture-September-23-2026.md) — *2026-09-23*
+- [197. A Torsion-Free Group Algebra That Is Not Directly Finite](A-Torsion-Free-Group-Algebra-That-Is-Not-Directly-Finite-October-4-2026.md) — *2026-10-04*
+- [198. An algebra of infinite little finitistic dimension](An-algebra-of-infinite-little-finitistic-dimension-September-23-2026.md) — *2026-09-23*
+- [199. A counterexample to Tachikawa's second conjecture](A-counterexample-to-Tachikawas-second-conjecture-September-23-2026.md) — *2026-09-23*
+- [199. An explicit counterexample to the Auslander-Reiten conjecture](An-explicit-counterexample-to-the-Auslander-Reiten-conjecture-September-23-2026.md) — *2026-09-23*
+- [200. Commuting Division-Coefficient Forms and the Artinian Eisenbud--Green--Harris Conjecture](Commuting-Division-Coefficient-Forms-and-the-Artinian-Eisenbud-Green-Harris-Conjecture-September-23-2026.md) — *2026-09-23*
+- [200. The Artinian Lex-Plus-Powers Betti Theorem](The-Artinian-Lex-Plus-Powers-Betti-Theorem-September-23-2026.md) — *2026-09-23*
+- [201. A Counterexample to Kurosh’s Division-Ring Problem](A-Counterexample-to-Kuroshs-Division-Ring-Problem-September-23-2026.md) — *2026-09-23*
+- [202. The Blockwise Alperin Weight Conjecture](The-Blockwise-Alperin-Weight-Conjecture-September-23-2026.md) — *2026-09-23*
+- [203. Donovan's Conjecture over Algebraically Closed Fields](Donovans-Conjecture-over-Algebraic-Closures-of-Prime-Fields-September-24-2026.md) — *2026-09-24*
+- [203. Integral Donovan Finiteness over Witt Vectors](Integral-Donovan-Finiteness-over-Witt-Vectors-September-25-2026.md) — *2026-09-25*
+- [204. Tensor saturation for even spin groups](Tensor-Saturation-for-Even-Spin-Groups-September-24-2026.md) — *2026-09-24*
+- [205. A Cyclic Polytabloid Proof of Saxl's Conjecture](A-Cyclic-Polytabloid-Proof-of-Saxls-Conjecture-September-24-2026.md) — *2026-09-24*
+- [205. Universal Tensor Squares for Symmetric Groups](Universal-Tensor-Squares-for-Symmetric-Groups-September-24-2026.md) — *2026-09-24*
+- [206. A negative solution to the finite lattice representation problem](A-Negative-Solution-to-the-Finite-Lattice-Representation-Problem-September-24-2026.md) — *2026-09-24*
+- [206. Finite congruence lattices: characterization and undecidability](Finite-Congruence-Lattices-Characterization-and-Undecidability-September-24-2026.md) — *2026-09-24*
+- [207. The Bass trace conjecture and the characteristic-zero Kaplansky idempotent conjecture](The-Bass-trace-conjecture-for-complex-group-rings-September-24-2026.md) — *2026-09-24*
+- [207. The ℓ¹-Bass Conjecture for Discrete Groups](The-l1-Bass-Conjecture-for-Discrete-Groups-October-5-2026.md) — *2026-10-05*
+- [208. Fiber functors for finite symmetric tensor categories in positive characteristic](Fiber-functors-for-finite-symmetric-tensor-categories-in-positive-characteristic-September-24-2026.md) — *2026-09-24*
+- [209. An integral counterexample to Gersten's conjecture](An-Integral-Counterexample-to-Gerstens-Conjecture-September-25-2026.md) — *2026-09-25*
+- [209. An integral degree-three Gersten counterexample](An-Integral-Degree-Three-Gersten-Counterexample-September-26-2026.md) — *2026-09-26*
+- [210. Foulkes' conjecture for the sixth symmetric power](Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026.md) — *2026-09-25*
+- [210. Quadratic stabilization of the canonical Foulkes--Howe map](Quadratic-Stabilization-of-the-Canonical-Foulkes-Howe-Map-September-25-2026.md) — *2026-09-25*
+- [211. A Linear Clock for Random Walk on Tree-Weighted Planar Maps](A-Linear-Clock-for-Random-Walk-on-Tree-Weighted-Planar-Maps-October-5-2026.md) — *2026-10-05*
+- [211. Brownian continuum random tree limits of finite Fortuin–Kasteleyn maps above four](Brownian-continuum-random-tree-limits-of-finite-Fortuin-Kasteleyn-maps-above-four-September-24-2026.md) — *2026-09-24*
+- [211. Canonical conformal limits of subcritical FK planar maps](Canonical-conformal-limits-of-subcritical-FK-planar-maps-September-24-2026.md) — *2026-09-24*
+- [211. Metric-measure limits of subcritical FK and spanning-tree planar maps](Metric-measure-limits-of-subcritical-FK-and-spanning-tree-planar-maps-September-24-2026.md) — *2026-09-24*
+- [211. Random Walks on Critical FK–Ising Maps and Liouville Brownian Motion](Random-Walks-on-Critical-FK-Ising-Maps-and-Liouville-Brownian-Motion-October-5-2026.md) — *2026-10-05*
+- [211. Spectral convergence for critical FK–Ising planar maps](Spectral-convergence-for-critical-FK-Ising-planar-maps-October-5-2026.md) — *2026-10-05*
+- [211. The critical Liouville quantum sphere and geometric limits of FK maps at q=4](The-critical-Liouville-quantum-sphere-and-geometric-limits-of-FK-maps-at-q-equals-4-September-24-2026.md) — *2026-09-24*
+- [212. No bigeodesics in planar first-passage percolation](No-bigeodesics-in-planar-first-passage-percolation-September-24-2026.md) — *2026-09-24*
+- [212. Strict convexity and differentiability of the planar exponential first-passage limit shape](Strict-convexity-and-differentiability-of-the-planar-exponential-first-passage-limit-shape-September-24-2026.md) — *2026-09-24*
+- [213. Critical bond and site percolation on the cubic lattice](Critical-bond-and-site-percolation-on-the-cubic-lattice-September-24-2026.md) — *2026-09-24*
+- [213. No percolation at criticality on quasi-transitive graphs](No-percolation-at-criticality-on-quasi-transitive-graphs-September-24-2026.md) — *2026-09-24*
+- [214. Nonuniqueness of percolation on nonamenable quasi-transitive graphs](Nonuniqueness-of-percolation-on-nonamenable-quasi-transitive-graphs-September-24-2026.md) — *2026-09-24*
+- [215. An Isolated Particle Pole for the Two-Dimensional O(3) Spin Field](An-Isolated-Particle-Pole-for-the-Two-Dimensional-O3-Spin-Field-October-4-2026.md) — *2026-10-04*
+- [215. Exact mass asymptotics for the two-dimensional O(4) lattice model](Exact-mass-asymptotics-for-the-two-dimensional-O4-lattice-model-October-5-2026.md) — *2026-10-05*
+- [215. Exponential decay in two-dimensional classical O(n) models](Exponential-decay-in-two-dimensional-classical-On-models-September-23-2026.md) — *2026-09-23*
+- [215. Sharp mass bounds for the two-dimensional O(4) model](Sharp-mass-bounds-for-the-two-dimensional-O4-model-September-23-2026.md) — *2026-09-23*
+- [215. The canonical massive continuum limit of the two-dimensional O(3) model](The-canonical-massive-continuum-limit-of-the-two-dimensional-O3-model-October-4-2026.md) — *2026-10-04*
+- [216. BKT universality for height and planar spin fields](BKT-universality-for-height-and-planar-spin-fields-September-24-2026.md) — *2026-09-24*
+- [216. Critical Center Magnetization in the Planar XY Model](Critical-Center-Magnetization-in-the-Planar-XY-Model-October-5-2026.md) — *2026-10-05*
+- [216. Essential Singularity of the Correlation Length in the Planar XY Model](Essential-Singularity-of-the-Correlation-Length-in-the-Planar-XY-Model-October-5-2026.md) — *2026-10-05*
+- [216. The critical correlation exponent of the planar XY model](The-critical-correlation-exponent-of-the-planar-XY-model-September-24-2026.md) — *2026-09-24*
+- [216. The critical logarithmic correction for the planar XY model](The-critical-logarithmic-correction-for-the-planar-XY-model-October-5-2026.md) — *2026-10-05*
+- [216. The Critical Spin Field of the Planar XY Model](The-Critical-Spin-Field-of-the-Planar-XY-Model-October-5-2026.md) — *2026-10-05*
+- [217. The low-temperature Sherrington–Kirkpatrick fluctuation scale](The-low-temperature-Sherrington-Kirkpatrick-fluctuation-scale-September-24-2026.md) — *2026-09-24*
+- [217. The low-temperature Sherrington–Kirkpatrick free-energy limiting law](The-low-temperature-Sherrington-Kirkpatrick-free-energy-limiting-law-September-24-2026.md) — *2026-09-24*
+- [218. Buffered comparison and stopping-band resolution in critical Ising](Buffered-comparison-and-stopping-band-resolution-in-critical-Ising-September-23-2026.md) — *2026-09-23*
+- [218. Conformal universality of bulk Ising correlations under weak interactions](Conformal-universality-of-bulk-Ising-correlations-under-weak-interactions-September-23-2026.md) — *2026-09-23*
+- [218. Logarithmic Relative Fluctuations in the Weakly Disordered Planar Ising Model](Logarithmic-Relative-Fluctuations-in-the-Weakly-Disordered-Planar-Ising-Model-October-5-2026.md) — *2026-10-05*
+- [218. Quenched SLE₃ limits for general weak random-bond Ising models](Quenched-SLE3-limits-for-general-weak-random-bond-Ising-models-October-5-2026.md) — *2026-10-05*
+- [218. Quenched SLE₃ Universality for the Weak Random-Bond Ising Model](Quenched-SLE3-Universality-for-the-Weak-Random-Bond-Ising-Model-October-5-2026.md) — *2026-10-05*
+- [218. SLE3 universality for weak finite-range Ising interactions](SLE3-universality-for-weak-finite-range-Ising-interactions-September-23-2026.md) — *2026-09-23*
+- [219. Fixed-energy universality for weak Anderson disorder on random regular graphs](Fixed-energy-universality-for-weak-Anderson-disorder-on-random-regular-graphs-October-5-2026.md) — *2026-10-05*
+- [219. GOE bulk universality for fixed-degree random regular graphs](GOE-bulk-universality-for-fixed-degree-random-regular-graphs-September-23-2026.md) — *2026-09-23*
+- [220. A directional zero–one law for finite-range-dependent random environments](A-directional-zero-one-law-for-finite-range-dependent-random-environments-October-5-2026.md) — *2026-10-05*
+- [220. A directional zero–one law under strict ellipticity](A-directional-zero-one-law-under-strict-ellipticity-September-23-2026.md) — *2026-09-23*
+- [220. Directional transience implies ballisticity](Directional-transience-implies-ballisticity-September-23-2026.md) — *2026-09-23*
+- [221. The Mézard–Parisi formula for diluted spin glasses](The-Mezard-Parisi-formula-for-diluted-spin-glasses-September-23-2026.md) — *2026-09-23*
+- [222. Microscopic jamming in the negative spherical perceptron](Microscopic-jamming-in-the-negative-spherical-perceptron-September-24-2026.md) — *2026-09-24*
+- [222. The free energy of the Ising random perceptron](The-free-energy-of-the-Ising-random-perceptron-September-24-2026.md) — *2026-09-24*
+- [222. The free energy of the spherical random perceptron](The-free-energy-of-the-spherical-random-perceptron-September-24-2026.md) — *2026-09-24*
+- [222. The spherical perceptron with bi-orthogonally invariant disorder](The-spherical-perceptron-with-bi-orthogonally-invariant-disorder-September-24-2026.md) — *2026-09-24*
+- [223. Conformal Limits of Critical Square-Lattice Random-Cluster Interfaces](Conformal-Limits-of-Critical-Square-Lattice-Random-Cluster-Interfaces-October-5-2026.md) — *2026-10-05*
+- [223. Natural Occupation Measures for Critical Square-Lattice FK Interfaces](Natural-Occupation-Measures-for-Critical-Square-Lattice-FK-Interfaces-October-5-2026.md) — *2026-10-05*
+- [223. Quenched SLE Universality for Weakly Disordered FK–Ising Interfaces](Quenched-SLE-Universality-for-Weakly-Disordered-FK-Ising-Interfaces-October-5-2026.md) — *2026-10-05*
+- [223. Self-dual random-cluster interfaces below one](Self-dual-random-cluster-interfaces-below-one-September-23-2026.md) — *2026-09-23*
+- [223. Square-lattice FK interfaces and nested loops for 1 <= q < 4](Square-lattice-FK-interfaces-and-nested-loops-for-1-leq-q-lt-4-September-23-2026.md) — *2026-09-23*
+- [223. Thermal FK–Ising interfaces and massive SLE](Thermal-FK-Ising-interfaces-and-massive-SLE-October-5-2026.md) — *2026-10-05*
+- [224. A Pivotal Amplitude for Voronoi Percolation from Cardy's Formula](A-Pivotal-Amplitude-for-Voronoi-Percolation-from-Cardys-Formula-October-5-2026.md) — *2026-10-05*
+- [224. Cardy’s formula for critical Poisson–Voronoi percolation](Cardys-formula-for-critical-Poisson-Voronoi-percolation-September-23-2026.md) — *2026-09-23*
+- [224. From critical crossings to quenched near-critical universality in Voronoi percolation](From-critical-crossings-to-quenched-near-critical-universality-in-Voronoi-percolation-October-5-2026.md) — *2026-10-05*
+- [225. The Gaussian free field limit of the balanced six-vertex model with variance multiplier 1/arcsin(c/2)](The-Gaussian-free-field-limit-of-the-balanced-six-vertex-model-with-variance-multiplier-1-over-arcsin-c-over-2-September-23-2026.md) — *2026-09-23*
+- [226. The curve scaling limit of half-plane double dimers](The-curve-scaling-limit-of-half-plane-double-dimers-September-23-2026.md) — *2026-09-23*
+- [227. A spectral gap throughout the high-temperature Sherrington–Kirkpatrick phase](A-spectral-gap-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026.md) — *2026-09-24*
+- [227. A typical-start upper bound for low-temperature SK Glauber dynamics](A-typical-start-upper-bound-for-low-temperature-SK-Glauber-dynamics-September-24-2026.md) — *2026-09-24*
+- [227. Critical mixing in the Sherrington–Kirkpatrick model](Critical-mixing-in-the-Sherrington-Kirkpatrick-model-September-25-2026.md) — *2026-09-25*
+- [227. Critical slowing down in the Sherrington–Kirkpatrick model](Critical-slowing-down-in-the-Sherrington-Kirkpatrick-model-September-24-2026.md) — *2026-09-24*
+- [227. Cutoff throughout the high-temperature Sherrington–Kirkpatrick phase](Cutoff-throughout-the-high-temperature-Sherrington-Kirkpatrick-phase-September-24-2026.md) — *2026-09-24*
+- [227. Functional universality of critical SK autocorrelations](Functional-universality-of-critical-SK-autocorrelations-October-5-2026.md) — *2026-10-05*
+- [227. Stretched-exponential barriers for typical SK initial states](Stretched-exponential-barriers-for-typical-SK-initial-states-September-24-2026.md) — *2026-09-24*
+- [227. Universality of critical quench autocorrelations in the Sherrington–Kirkpatrick model](Universality-of-critical-quench-autocorrelations-in-the-Sherrington-Kirkpatrick-model-October-5-2026.md) — *2026-10-05*
+- [228. A continuum temperature singularity for a radial pair potential](A-continuum-temperature-singularity-for-a-radial-pair-potential-September-24-2026.md) — *2026-09-24*
+- [228. A radial continuum phase transition with algebraic decay](A-radial-continuum-phase-transition-with-algebraic-decay-September-24-2026.md) — *2026-09-24*
+- [229. A Capacity Criterion for Four-State Potts Reconstruction on Trees](A-Capacity-Criterion-for-Four-State-Potts-Reconstruction-on-Trees-October-5-2026.md) — *2026-10-05*
+- [229. The exact reconstruction threshold for the three-state symmetric channel](The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026.md) — *2026-09-25*
+- [229. The Reconstruction Threshold for the Ferromagnetic Four-State Potts Model](The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026.md) — *2026-10-05*
+- [230. An exact Hausdorff gauge for SLE](An-exact-Hausdorff-gauge-for-SLE-September-25-2026.md) — *2026-09-25*
+- [230. An explicit exact Hausdorff gauge for SLE](An-explicit-exact-Hausdorff-gauge-for-SLE-September-26-2026.md) — *2026-09-26*
+- [231. The free uniform spanning forest is a factor of IID](The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026.md) — *2026-09-25*
+- [232. Gaussian free-field limits of weighted integer Lipschitz heights](Gaussian-free-field-limits-of-weighted-integer-Lipschitz-heights-October-6-2026.md) — *2026-10-06*
+- [232. The Gaussian free field limit of integer Lipschitz heights with two-arc boundary data](The-Gaussian-free-field-limit-of-integer-Lipschitz-heights-with-two-arc-boundary-data-October-6-2026.md) — *2026-10-06*
+- [232. Uniform real Lipschitz surfaces on the triangular lattice](Uniform-real-Lipschitz-surfaces-on-the-triangular-lattice-October-6-2026.md) — *2026-10-06*
+- [233. The joint scaling limit of critical Ashkin-Teller currents](The-joint-scaling-limit-of-critical-Ashkin-Teller-currents-October-6-2026.md) — *2026-10-06*
+- [234. All-temperature pressure for orthogonally invariant Ising spin glasses](All-temperature-pressure-for-orthogonally-invariant-Ising-spin-glasses-September-25-2026.md) — *2026-09-25*
+- [235. A Limiting Satisfiability Threshold for Every Fixed Clause Size](A-Limiting-Satisfiability-Threshold-for-Every-Fixed-Clause-Size-September-25-2026.md) — *2026-09-25*
+- [235. Computing the Random 3-SAT Threshold](Computing-the-Random-3-SAT-Threshold-September-27-2026.md) — *2026-09-27*
+- [235. Linear Variance of the Random 3-SAT Hitting Time](Linear-Variance-of-the-Random-3-SAT-Hitting-Time-October-5-2026.md) — *2026-10-05*
+- [235. Variance of the Random k-SAT Hitting Time](Variance-of-the-Random-k-SAT-Hitting-Time-September-27-2026.md) — *2026-09-27*
+- [236. The sharp factor-of-IID threshold for the free Ising model on regular trees](The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026.md) — *2026-09-26*
+- [237. Cap-selected amplitudes and triangle chords for honeycomb walks](Cap-selected-amplitudes-and-triangle-chords-for-honeycomb-walks-September-26-2026.md) — *2026-09-26*
+- [237. Critical honeycomb chords with prescribed boundary endpoints](Critical-honeycomb-chords-with-prescribed-boundary-endpoints-September-26-2026.md) — *2026-09-26*
+- [237. Critical strip-crossing mass on the honeycomb lattice](Critical-strip-crossing-mass-on-the-honeycomb-lattice-September-26-2026.md) — *2026-09-26*
+- [237. Cylinder amplitudes and logarithmic bridge-length windows on the honeycomb lattice](Cylinder-amplitudes-and-logarithmic-bridge-length-windows-on-the-honeycomb-lattice-September-26-2026.md) — *2026-09-26*
+- [237. Cylinder loop weights and planar nesting](Cylinder-loop-weights-and-planar-nesting-September-26-2026.md) — *2026-09-26*
+- [237. Disk transfer representations and confined bridge mass](Disk-transfer-representations-and-confined-bridge-mass-September-26-2026.md) — *2026-09-26*
+- [237. Marked polygon correlations and one-arc bounds](Marked-polygon-correlations-and-one-arc-bounds-September-26-2026.md) — *2026-09-26*
+- [237. Mass and covering exponents for fixed-length honeycomb walks](Mass-and-covering-exponents-for-fixed-length-honeycomb-walks-September-26-2026.md) — *2026-09-26*
+- [237. Polynomial vacuum representations and bridge mass for honeycomb walks](Polynomial-vacuum-representations-and-bridge-mass-for-honeycomb-walks-September-26-2026.md) — *2026-09-26*
+- [237. Radial transfer estimates and polygon length laws for honeycomb walks](Radial-transfer-estimates-and-polygon-length-laws-for-honeycomb-walks-September-26-2026.md) — *2026-09-26*
+- [237. Renewal and changes of law for critical honeycomb walks](Renewal-and-changes-of-law-for-critical-honeycomb-walks-September-26-2026.md) — *2026-09-26*
+- [237. Signed cylinder propagation and marked polygons on the honeycomb lattice](Signed-cylinder-propagation-and-marked-polygons-on-the-honeycomb-lattice-September-26-2026.md) — *2026-09-26*
+- [237. Uniform marked-polygon estimates and sharp finite bridge moments](Uniform-marked-polygon-estimates-and-sharp-finite-bridge-moments-September-26-2026.md) — *2026-09-26*
+- [238. A strict four-row permanent inequality and permutation moments](A-strict-four-row-permanent-inequality-and-permutation-moments-September-26-2026.md) — *2026-09-26*
+- [238. Compatibility entropy and the spectrum of a Thorp sweep](Compatibility-entropy-and-the-spectrum-of-a-Thorp-sweep-September-26-2026.md) — *2026-09-26*
+- [238. Conditional coordinate sweeps and analytic transfer](Conditional-coordinate-sweeps-and-analytic-transfer-September-26-2026.md) — *2026-09-26*
+- [238. Conditional information under deterministic coordinate sweeps](Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026.md) — *2026-09-26*
+- [238. Conditional permutations in a revealed switching environment](Conditional-permutations-in-a-revealed-switching-environment-September-26-2026.md) — *2026-09-26*
+- [238. From partial permutation information to Fourier bounds](From-partial-permutation-information-to-Fourier-bounds-September-26-2026.md) — *2026-09-26*
+- [238. Optimal-order mixing of the Thorp shuffle](Optimal-order-mixing-of-the-Thorp-shuffle-September-26-2026.md) — *2026-09-26*
+- [238. Random coordinate frames and partial permutation laws](Random-coordinate-frames-and-partial-permutation-laws-September-26-2026.md) — *2026-09-26*
+- [238. Random-subspace tests and trace smoothing for coordinate sweeps](Random-subspace-tests-and-trace-smoothing-for-coordinate-sweeps-September-26-2026.md) — *2026-09-26*
+- [238. Routing densities and representation contraction for Thorp sweeps](Routing-densities-and-representation-contraction-for-Thorp-sweeps-September-26-2026.md) — *2026-09-26*
+- [238. Row&#8211;column symmetry and contraction of coordinate sweeps](Row-column-symmetry-and-contraction-of-coordinate-sweeps-September-26-2026.md) — *2026-09-26*
+- [238. Signed tensor densities and diagram budgets for the Thorp shuffle](Signed-tensor-densities-and-diagram-budgets-for-coordinate-sweeps-September-26-2026.md) — *2026-09-26*
+- [239. The sharp exponential rate of singularity for symmetric Bernoulli matrices](The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026.md) — *2026-10-03*
+- [239. The sharp singularity rate for biased symmetric sign matrices](The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026.md) — *2026-10-04*
+- [240. A CH obstruction to a prescribed categoricity threshold](A-CH-Obstruction-to-a-Prescribed-Categoricity-Threshold-September-24-2026.md) — *2026-09-24*
+- [240. Eventual categoricity for abstract elementary classes](Eventual-Categoricity-for-Abstract-Elementary-Classes-September-24-2026.md) — *2026-09-24*
+- [241. Rigidity of the Turing degrees](Rigidity-of-the-Turing-degrees-September-24-2026.md) — *2026-09-24*
+- [242. Single-fold Diophantine representations](Single-fold-Diophantine-representations-September-24-2026.md) — *2026-09-24*
+- [243. Choiceless polynomial time with counting does not capture polynomial time](Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026.md) — *2026-09-23*
+- [243. Witnessed symmetric choice is strictly stronger than choiceless polynomial time with counting](Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026.md) — *2026-09-24*
+- [244. The Partition Principle does not imply Choice](The-Partition-Principle-does-not-imply-Choice-September-24-2026.md) — *2026-09-24*
+- [245. Weak and strong normalization in pure type systems](Weak-and-strong-normalization-in-pure-type-systems-September-25-2026.md) — *2026-09-25*
+- [246. A Modulus Proof of Cannon’s Conjecture](A-Modulus-Proof-of-Cannons-Conjecture-September-23-2026.md) — *2026-09-23*
+- [247. An infinite finitely presented periodic group](An-infinite-finitely-presented-periodic-group-September-23-2026.md) — *2026-09-23*
+- [247. An infinite finitely presented residually finite 2-group](An-infinite-finitely-presented-residually-finite-2-group-October-5-2026.md) — *2026-10-05*
+- [248. Thompson's group F is nonamenable](Thompsons-group-F-is-nonamenable-September-23-2026.md) — *2026-09-23*
+- [249. A finitely generated counterexample to the Eilenberg–Ganea conjecture](A-finitely-generated-counterexample-to-the-Eilenberg-Ganea-conjecture-September-23-2026.md) — *2026-09-23*
+- [250. A universal group of type F∞](A-universal-group-of-type-F-infinity-September-23-2026.md) — *2026-09-23*
+- [250. Finite algebraic envelopes and the Boone–Higman conjecture](Finite-algebraic-envelopes-and-the-Boone-Higman-conjecture-September-23-2026.md) — *2026-09-23*
+- [250. Simple F∞ overgroups of groups with decidable word problem](Simple-F-infinity-overgroups-of-groups-with-decidable-word-problem-September-23-2026.md) — *2026-09-23*
+- [251. Strong Ulam Stability Characterizes Amenability](Strong-Ulam-Stability-Characterizes-Amenability-October-5-2026.md) — *2026-10-05*
+- [251. Unitarizability implies amenability for discrete groups](Unitarizability-Implies-Amenability-for-Countable-Groups-September-23-2026.md) — *2026-09-23*
+- [252. A torsion-free hyperbolic group that is not residually finite](a-torsion-free-hyperbolic-group-that-is-not-residually-finite-September-23-2026.md) — *2026-09-23*
+- [253. An infinite finitely presented simple amenable group](An-Infinite-Finitely-Presented-Simple-Amenable-Group-September-23-2026.md) — *2026-09-23*
+- [254. An Artin group with no geometric CAT(0) action](An-Artin-group-with-no-geometric-CAT-0-action-September-23-2026.md) — *2026-09-23*
+- [254. Harmonic heights and the Artin K(pi,1) conjecture](Harmonic-heights-and-the-Artin-K-pi-1-conjecture-September-23-2026.md) — *2026-09-23*
+- [254. Parabolic intersections in Artin groups](Parabolic-intersections-in-Artin-groups-September-23-2026.md) — *2026-09-23*
+- [255. Quasi-isometric recognition of virtually polycyclic groups](quasi-isometric-recognition-of-virtually-polycyclic-groups-September-24-2026.md) — *2026-09-24*
+- [256. Nonsingular systems of equations over arbitrary groups](Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026.md) — *2026-10-05*
+- [256. The Kervaire theorem for groups](The-Kervaire-Theorem-for-Groups-September-24-2026.md) — *2026-09-24*
+- [257. A hyperbolic group with no geometric CAT(0) action](A-hyperbolic-group-with-no-geometric-CAT0-action-September-25-2026.md) — *2026-09-25*
+- [258. Baumslag-Solitar-free one-relator groups are hyperbolic](Baumslag-Solitar-free-one-relator-groups-are-hyperbolic-September-25-2026.md) — *2026-09-25*
+- [258. Virtual compact specialness of hyperbolic one-relator groups](Virtual-compact-specialness-of-hyperbolic-one-relator-groups-September-25-2026.md) — *2026-09-25*
+- [259. A group without fixed price](A-group-without-fixed-price-October-5-2026.md) — *2026-10-05*
+- [260. A Charged Reduction of the Spacetime Penrose Inequality in Spatial Dimensions at Least Four](A-Charged-Reduction-of-the-Spacetime-Penrose-Inequality-in-Spatial-Dimensions-at-Least-Four-October-5-2026.md) — *2026-10-05*
+- [260. A local Penrose inequality for conformal perturbations of Schwarzschild–anti-de Sitter data](A-local-Penrose-inequality-for-conformal-perturbations-of-Schwarzschild-anti-de-Sitter-data-October-5-2026.md) — *2026-10-05*
+- [260. Area-controlled end replacement and the Bondi Penrose inequality in the CKS class](Area-controlled-end-replacement-and-the-Bondi-Penrose-inequality-in-the-CKS-class-September-27-2026.md) — *2026-09-27*
+- [260. Boundary graph deformations for the spacetime Penrose inequality](Boundary-graph-deformations-for-the-spacetime-Penrose-inequality-September-27-2026.md) — *2026-09-27*
+- [260. Conformal flow and the Riemannian Penrose inequality with minimizing frontiers](Conformal-flow-and-the-Riemannian-Penrose-inequality-with-minimizing-frontiers-September-27-2026.md) — *2026-09-27*
+- [260. Electromagnetic tails and the Kerr–Newman Penrose inequality](Electromagnetic-tails-and-the-Kerr-Newman-Penrose-inequality-October-5-2026.md) — *2026-10-05*
+- [260. Equality and rigidity in the spacetime Penrose inequality](Equality-and-rigidity-in-the-spacetime-Penrose-inequality-September-27-2026.md) — *2026-09-27*
+- [260. Spacetime Penrose inequalities: enclosing area, charge, and rigidity](Spacetime-Penrose-inequalities-enclosing-area-charge-and-rigidity-October-5-2026.md) — *2026-10-05*
+- [260. The Kerr–Newman Penrose Inequality for Axisymmetric Electrovacuum Exteriors](The-Kerr-Newman-Penrose-Inequality-for-Axisymmetric-Electrovacuum-Exteriors-October-5-2026.md) — *2026-10-05*
+- [260. The nonmaximal anti-de Sitter Penrose Inequality and original-data rigidity](The-nonmaximal-anti-de-Sitter-Penrose-Inequality-and-original-data-rigidity-October-5-2026.md) — *2026-10-05*
+- [260. The Penrose inequality for maximal asymptotically hyperbolic initial data](The-Penrose-inequality-for-maximal-asymptotically-hyperbolic-initial-data-October-5-2026.md) — *2026-10-05*
+- [260. The spacetime Penrose inequality and enclosing area](The-spacetime-Penrose-inequality-and-enclosing-area-September-27-2026.md) — *2026-09-27*
+- [260. The spacetime Penrose inequality with charge and original-data rigidity](The-spacetime-Penrose-inequality-with-charge-and-original-data-rigidity-October-5-2026.md) — *2026-10-05*
+- [261. Absolutely Continuous Spectrum for Weak-Disorder Anderson Models in Dimensions at Least Three](Absolutely-Continuous-Spectrum-for-Weak-Disorder-Anderson-Models-in-Dimensions-at-Least-Three-September-23-2026.md) — *2026-09-23*
+- [261. Pure-Point Spectrum for the Two-Dimensional Anderson Model at Every Positive Disorder](Pure-Point-Spectrum-for-the-Two-Dimensional-Anderson-Model-at-Every-Positive-Disorder-September-23-2026.md) — *2026-09-23*
+- [262. Equality cases in the sharp one-dimensional matrix Lieb–Thirring inequality](Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026.md) — *2026-10-05*
+- [262. Sharp one-dimensional Lieb–Thirring constants](Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026.md) — *2026-09-23*
+- [262. Sharp one-dimensional Lieb–Thirring inequalities for matrix potentials](Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026.md) — *2026-10-05*
+- [263. Generalized ionization energies for full Coulomb atoms](Generalized-ionization-energies-for-full-Coulomb-atoms-September-24-2026.md) — *2026-09-24*
+- [263. Generalized outer-electron radii of neutral Coulomb atoms](Generalized-outer-electron-radii-of-neutral-Coulomb-atoms-September-24-2026.md) — *2026-09-24*
+- [263. Uniform excess charge for Coulomb molecules and the outer radius of neutral atoms](Uniform-excess-charge-for-Coulomb-molecules-and-the-outer-radius-of-neutral-atoms-September-24-2026.md) — *2026-09-24*
+- [264. Generic C1 Future Inextendibility Near Rotating Subextremal Kerr Spacetimes](Generic-C1-Future-Inextendibility-Near-Rotating-Subextremal-Kerr-Spacetimes-September-23-2026.md) — *2026-09-23*
+- [264. Generic Future Inextendibility with Square-Integrable Connection Near a Fixed Kerr Spacetime](Generic-Future-Inextendibility-with-Square-Integrable-Connection-Near-a-Fixed-Kerr-Spacetime-September-23-2026.md) — *2026-09-23*
+- [264. Quantitative Near-Kerr Evolution and Generic C2 Future Inextendibility](Quantitative-Near-Kerr-Evolution-and-Generic-C2-Future-Inextendibility-September-23-2026.md) — *2026-09-23*
+- [265. A two-dimensional area law from a global spectral gap](A-two-dimensional-area-law-from-a-global-spectral-gap-September-24-2026.md) — *2026-09-24*
+- [265. Polynomial PEPS approximation of gapped square-grid ground states](Polynomial-PEPS-approximation-of-gapped-square-grid-ground-states-September-24-2026.md) — *2026-09-24*
+- [266. Exact Fourier certificates for complex Hadamard matrices of order six](Exact-Fourier-certificates-for-complex-Hadamard-matrices-of-order-six-September-24-2026.md) — *2026-09-24*
+- [266. The maximum number of mutually unbiased bases in dimension six](The-maximum-number-of-mutually-unbiased-bases-in-dimension-six-September-24-2026.md) — *2026-09-24*
+- [267. A density-uniform condensate bound for dilute Bose gases](A-density-uniform-condensate-bound-for-dilute-Bose-gases-September-27-2026.md) — *2026-09-27*
+- [267. Bose–Einstein condensation at positive temperature in the dilute hard-sphere gas](Bose-Einstein-condensation-at-positive-temperature-in-the-dilute-hard-sphere-gas-October-5-2026.md) — *2026-10-05*
+- [267. Ground-state condensation in the dilute hard-sphere gas](Ground-state-condensation-in-the-dilute-hard-sphere-gas-September-24-2026.md) — *2026-09-24*
+- [267. Quantum Depletion and Momentum Distribution in the Dilute Hard-Sphere Bose Gas](Quantum-Depletion-and-Momentum-Distribution-in-the-Dilute-Hard-Sphere-Bose-Gas-October-5-2026.md) — *2026-10-05*
+- [267. Quantum Depletion for Fixed Bounded Repulsive Potentials](Quantum-Depletion-for-Fixed-Bounded-Repulsive-Potentials-October-5-2026.md) — *2026-10-05*
+- [268. A boundary-field gap for the spin-one Heisenberg chain](A-boundary-field-gap-for-the-spin-one-Heisenberg-chain-September-24-2026.md) — *2026-09-24*
+- [268. The periodic spin-one Haldane gap](The-periodic-spin-one-Haldane-gap-September-24-2026.md) — *2026-09-24*
+- [269. A Fock-space inequality and the Laughlin spectral gap](A-Fock-space-inequality-and-the-Laughlin-spectral-gap-September-24-2026.md) — *2026-09-24*
+- [269. Uniform Stability of the Spherical Laughlin Gap](Uniform-Stability-of-the-Spherical-Laughlin-Gap-October-5-2026.md) — *2026-10-05*
+- [270. Positive eigenvalues of the relative SU(2) BFSS Hamiltonian](Positive-eigenvalues-of-the-relative-SU-2-BFSS-Hamiltonian-October-5-2026.md) — *2026-10-05*
+- [270. The unique threshold bound state of the SU(N) BFSS model](The-unique-threshold-bound-state-of-the-SU-N-BFSS-model-September-24-2026.md) — *2026-09-24*
+- [271. Bloch's Law for Finite-Range Heisenberg Ferromagnets in Three Dimensions](Blochs-Law-for-Finite-Range-Heisenberg-Ferromagnets-in-Three-Dimensions-October-5-2026.md) — *2026-10-05*
+- [271. Spontaneous magnetization in the quantum Heisenberg ferromagnet](Spontaneous-magnetization-in-the-quantum-Heisenberg-ferromagnet-September-24-2026.md) — *2026-09-24*
+- [271. The first lattice correction to Bloch's law](The-first-lattice-correction-to-Blochs-law-October-5-2026.md) — *2026-10-05*
+- [271. The spherical magnetization law for the three-dimensional quantum Heisenberg ferromagnet](The-spherical-magnetization-law-for-the-three-dimensional-quantum-Heisenberg-ferromagnet-October-5-2026.md) — *2026-10-05*
+- [272. Entanglement with zero distillable secret key in local dimension ten](Entanglement-with-zero-distillable-secret-key-in-local-dimension-ten-September-27-2026.md) — *2026-09-27*
+- [273. The entropy photon-number inequality](The-entropy-photon-number-inequality-September-24-2026.md) — *2026-09-24*
+- [274. Product-projection localization and the QAC0 parity lower bound](Product-projection-localization-and-the-QAC0-parity-lower-bound-September-24-2026.md) — *2026-09-24*
+- [274. Regular trajectories, pruning and quantum parity](Regular-trajectories-pruning-and-quantum-parity-September-24-2026.md) — *2026-09-24*
+- [275. Continuum Coulomb hardness with binary nuclear charges](Continuum-Coulomb-hardness-with-binary-nuclear-charges-September-24-2026.md) — *2026-09-24*
+- [275. QMA-hardness of continuum Coulomb energy with unit nuclear charges](QMA-hardness-of-continuum-Coulomb-energy-with-unit-nuclear-charges-September-24-2026.md) — *2026-09-24*
+- [276. Classical capacity and entropy inequalities for generalized amplitude damping](Classical-capacity-and-entropy-inequalities-for-generalized-amplitude-damping-September-24-2026.md) — *2026-09-24*
+- [277. Threshold parallel repetition for finite-dimensional entangled games](Threshold-parallel-repetition-for-finite-dimensional-entangled-games-September-25-2026.md) — *2026-09-25*
+- [278. A Coulomb ground-state density without Kohn-Sham ensemble representation](A-Coulomb-Ground-State-Density-without-Kohn-Sham-Ensemble-Representation-September-25-2026.md) — *2026-09-25*
+- [279. Exact quantum factoring over a fixed finite gate set](Exact-quantum-factoring-over-a-fixed-finite-gate-set-September-25-2026.md) — *2026-09-25*
+- [280. Strongly rational unitary vertex operator algebras and conformal nets](Strongly-rational-unitary-vertex-operator-algebras-and-conformal-nets-September-25-2026.md) — *2026-09-25*
+- [281. Full support of the zero-temperature Sherrington-Kirkpatrick order parameter](Full-support-of-the-zero-temperature-Sherrington-Kirkpatrick-order-parameter-September-27-2026.md) — *2026-09-27*
+- [281. QAOA attains the SK ground-state energy in the thermodynamic-first limit](QAOA-attains-the-SK-ground-state-energy-in-the-thermodynamic-first-limit-September-25-2026.md) — *2026-09-25*
+- [282. Scale and conformal symmetry in four-dimensional operational quantum field theory](Scale-and-conformal-symmetry-in-four-dimensional-operational-quantum-field-theory-September-26-2026.md) — *2026-09-26*
+- [283. Polynomial-Time Unitary Synthesis from a Boolean Oracle](Polynomial-Time-Unitary-Synthesis-from-a-Boolean-Oracle-October-5-2026.md) — *2026-10-05*
+- [284. A Nearly Quartic Separation Between Randomized and Quantum Query Complexity](A-Nearly-Quartic-Separation-Between-Randomized-and-Quantum-Query-Complexity-October-5-2026.md) — *2026-10-05*
+- [285. A torsion-free counterexample to reduced Baum–Connes injectivity](A-Torsion-Free-Counterexample-to-Reduced-Baum-Connes-Injectivity-September-23-2026.md) — *2026-09-23*
+- [285. A torsion-free counterexample to the Kadison–Kaplansky projection conjecture](A-Torsion-Free-Counterexample-to-the-Kadison-Kaplansky-Projection-Conjecture-September-23-2026.md) — *2026-09-23*
+- [285. An irrational-trace counterexample to reduced Baum–Connes](An-Irrational-Trace-Counterexample-to-Reduced-Baum-Connes-September-23-2026.md) — *2026-09-23*
+- [286. Arithmeticity of twisted finite correspondences for lattices over local fields](Arithmeticity-of-twisted-finite-correspondences-for-lattices-over-local-fields-September-23-2026.md) — *2026-09-23*
+- [286. The arithmetic category and stable recovery of lattice factors](The-arithmetic-category-and-stable-recovery-of-lattice-factors-September-23-2026.md) — *2026-09-23*
+- [287. An isomorphism of the free group factors](An-isomorphism-of-the-free-group-factors-September-23-2026.md) — *2026-09-23*
+- [288. Kadison's similarity theorem through uniform derivation estimates](Kadisons-similarity-theorem-through-uniform-derivation-estimates-September-23-2026.md) — *2026-09-23*
+- [289. Close Separable C*-Algebras Without Spatial Conjugacy](Close-Separable-Cstar-Algebras-Without-Spatial-Conjugacy-October-5-2026.md) — *2026-10-05*
+- [289. Near Inclusions of von Neumann Algebras Without Small Spatial Embeddings](Near-Inclusions-of-von-Neumann-Algebras-Without-Small-Spatial-Embeddings-October-5-2026.md) — *2026-10-05*
+- [289. Universal strong Kadison–Kastler stability](Universal-strong-Kadison-Kastler-stability-September-23-2026.md) — *2026-09-23*
+- [290. Bounded recovery for modular spectral averages](Bounded-recovery-for-modular-spectral-averages-September-23-2026.md) — *2026-09-23*
+- [290. Expected amenable subalgebras preserving core commutants](Expected-amenable-subalgebras-preserving-core-commutants-September-23-2026.md) — *2026-09-23*
+- [291. Cuntz comparison and Jiang–Su absorption](Cuntz-comparison-and-Jiang-Su-absorption-September-23-2026.md) — *2026-09-23*
+- [291. Equivariant Jiang–Su Stability for Amenable Actions in the Unital Stably Finite Case](Equivariant-Jiang-Su-Stability-for-Amenable-Actions-in-the-Unital-Stably-Finite-Case-October-5-2026.md) — *2026-10-05*
+- [291. Nuclear dimension and Jiang–Su stability without elementary subquotients](Nuclear-dimension-and-Jiang-Su-stability-without-elementary-subquotients-September-23-2026.md) — *2026-09-23*
+- [291. Tracial projection methods and uniform property Gamma](Tracial-projection-methods-and-uniform-property-Gamma-September-23-2026.md) — *2026-09-23*
+- [292. An explicit obstruction to nuclear norm-ultrapower embeddings](An-explicit-obstruction-to-nuclear-norm-ultrapower-embeddings-September-23-2026.md) — *2026-09-23*
+- [293. Backward intertwiners and a transitive commutant](Backward-intertwiners-and-a-transitive-commutant-September-27-2026.md) — *2026-09-27*
+- [293. Invariant-projection counterexamples for every irrational rotation](Invariant-projection-counterexamples-for-every-irrational-rotation-September-27-2026.md) — *2026-09-27*
+- [294. A counterexample to Kaplansky's quasitrace conjecture and failure of tensor-product stable finiteness](A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026.md) — *2026-09-23*
+- [295. Vanishing of higher bounded Hochschild cohomology](Vanishing-of-higher-bounded-Hochschild-cohomology-September-23-2026.md) — *2026-09-23*
+- [296. Relative generation and the generator problem for finite factors](Relative-generation-and-the-generator-problem-for-finite-factors-September-23-2026.md) — *2026-09-23*
+- [297. A counterexample to Naimark's problem in ZFC](A-counterexample-to-Naimarks-problem-in-ZFC-September-24-2026.md) — *2026-09-24*
+- [298. A finite-entropy separation of microstates and nonmicrostates free entropy](A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026.md) — *2026-09-25*
+- [299. The Kirchberg–Rørdam character criterion](The-Kirchberg-Rordam-character-criterion-September-25-2026.md) — *2026-09-25*
+- [300. Approximation Paving over Arbitrary Maximal Abelian Subalgebras](Approximation-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.md) — *2026-09-25*
+- [300. Quadratic Strong-Operator Paving over Arbitrary Maximal Abelian Subalgebras](Quadratic-Strong-Operator-Paving-over-Arbitrary-Maximal-Abelian-Subalgebras-September-25-2026.md) — *2026-09-25*
+- [301. The trace cone classifies Razak–Jacelon stabilizations](The-trace-cone-classifies-Razak-Jacelon-stabilizations-September-25-2026.md) — *2026-09-25*
+- [302. Filtered products and boundary-preserving compression in complex cobordism](Filtered-products-and-boundary-preserving-compression-in-complex-cobordism-September-25-2026.md) — *2026-09-25*
+- [302. Radius of comparison equals half the mean dimension](Radius-of-comparison-equals-half-the-mean-dimension-September-25-2026.md) — *2026-09-25*
+- [303. Weak pure infiniteness and O-infinity absorption](Weak-pure-infiniteness-and-O-infinity-absorption-September-25-2026.md) — *2026-09-25*
+- [304. The Hilbert–Smith conjecture in every finite dimension](The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026.md) — *2026-09-23*
+- [305. A boundary-only obstruction to four-dimensional disk embedding](A-boundary-only-obstruction-to-four-dimensional-disk-embedding-September-24-2026.md) — *2026-09-24*
+- [305. A marked tensor obstruction to four-dimensional disk embedding](A-marked-tensor-obstruction-to-four-dimensional-disk-embedding-September-24-2026.md) — *2026-09-24*
+- [305. A PD4 group without an aspherical manifold model](A-PD4-group-without-an-aspherical-manifold-model-September-24-2026.md) — *2026-09-24*
+- [306. Purely cosmetic surgery on knots in the three-sphere](Purely-Cosmetic-Surgery-on-Knots-in-the-Three-Sphere-September-23-2026.md) — *2026-09-23*
+- [307. A counterexample to the coarse Novikov conjecture](A-counterexample-to-the-coarse-Novikov-conjecture-September-23-2026.md) — *2026-09-23*
+- [307. Failure of rational injectivity for maximal coarse assembly](Failure-of-rational-injectivity-for-maximal-coarse-assembly-October-5-2026.md) — *2026-10-05*
+- [308. A finite Smith–Toda complex V(4) at the prime 1009](A-finite-Smith-Toda-complex-V4-at-the-prime-1009-September-23-2026.md) — *2026-09-23*
+- [308. Finite Smith–Toda Complexes at Varying Primes](Finite-Smith-Toda-Complexes-at-Varying-Primes-September-23-2026.md) — *2026-09-23*
+- [309. The Kervaire invariant problem at the prime three](The-Kervaire-Invariant-Problem-at-the-Prime-Three-September-24-2026.md) — *2026-09-24*
+- [310. Rational homology and Quillen's conjecture](Rational-homology-and-Quillens-conjecture-September-24-2026.md) — *2026-09-24*
+- [311. Stabilizer orbits and thick tensor ideals of dualizable K(n)-local spectra](Stabilizer-Orbits-and-Thick-Tensor-Ideals-of-Dualizable-Kn-Local-Spectra-September-24-2026.md) — *2026-09-24*
+- [312. The Grothendieck homotopy hypothesis via elementary expansions](The-Grothendieck-homotopy-hypothesis-via-elementary-expansions-September-24-2026.md) — *2026-09-24*
+- [313. Finite generation for the K(n)-local sphere](Finite-generation-for-the-Kn-local-sphere-September-24-2026.md) — *2026-09-24*
+- [314. Cyclic length and chromatic fixed-point loss](Cyclic-Length-and-Chromatic-Fixed-Point-Loss-September-24-2026.md) — *2026-09-24*
+- [315. The Singer conjecture in dimension four](The-Singer-conjecture-in-dimension-four-September-25-2026.md) — *2026-09-25*
+- [316. The Stable Hurewicz Image of the Sphere at Two](The-Stable-Hurewicz-Image-of-the-Sphere-at-Two-September-25-2026.md) — *2026-09-25*
+- [317. Thomason Model Structures in Every Strict Higher Dimension](Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026.md) — *2026-09-25*
+- [318. A rational obstruction to strong chromatic splitting at height three](A-rational-obstruction-to-strong-chromatic-splitting-at-height-three-September-25-2026.md) — *2026-09-25*
+- [318. Counterexamples to weak chromatic splitting: sphere kernels and descent exponents](Counterexamples-to-weak-chromatic-splitting-sphere-kernels-and-descent-exponents-September-27-2026.md) — *2026-09-27*
+- [318. Failure of finite assembly for a chromatic overlap at the prime three](Failure-of-finite-assembly-for-a-chromatic-overlap-at-the-prime-three-September-25-2026.md) — *2026-09-25*
+- [318. Filtered chromatic splitting at generic primes](Filtered-chromatic-splitting-at-generic-primes-September-25-2026.md) — *2026-09-25*
+- [318. The height-three chromatic overlap: an explicit filtration and its attachments](The-height-three-chromatic-overlap-an-explicit-filtration-and-its-attachments-September-27-2026.md) — *2026-09-27*
+- [319. Counterexamples to the Hahn-Wilson conjecture at height two](Counterexamples-to-the-Hahn-Wilson-conjecture-at-height-two-September-26-2026.md) — *2026-09-26*
+- [320. Nonhomeomorphic closed aspherical four-manifolds with the same homotopy type](Nonhomeomorphic-closed-aspherical-four-manifolds-with-the-same-homotopy-type-October-4-2026.md) — *2026-10-04*
+- [321. A Counterexample to Wall's D(2) Problem](A-Counterexample-to-Walls-D2-Problem-October-6-2026.md) — *2026-10-06*
+- [322. A positive solution to Tingley’s problem](A-positive-solution-to-Tingleys-problem-September-23-2026.md) — *2026-09-23*
+- [323. Relative independence of the separable quotient problem](Relative-independence-of-the-separable-quotient-problem-September-23-2026.md) — *2026-09-23*
+- [324. Bi-Lipschitz Absorption of c0 Without a Linear Copy of c0](Bi-Lipschitz-Absorption-of-c0-Without-a-Linear-Copy-of-c0-September-26-2026.md) — *2026-09-26*
+- [324. Lipschitz Equivalent Separable Banach Spaces Need Not Be Linearly Isomorphic](Lipschitz-Equivalent-Separable-Banach-Spaces-Need-Not-Be-Linearly-Isomorphic-September-24-2026.md) — *2026-09-24*
+- [325. A direct proof of the complete Crouzeix inequality](A-direct-proof-of-the-complete-Crouzeix-inequality-September-26-2026.md) — *2026-09-26*
+- [325. The complete Crouzeix theorem: optimal similarity and a common positive boundary representation](The-complete-Crouzeix-theorem-September-23-2026.md) — *2026-09-23*
+- [326. The cotype–cotype conjecture under the approximation property](The-cotype-cotype-conjecture-under-the-approximation-property-September-23-2026.md) — *2026-09-23*
+- [327. Nontrivial Markov Type Forces Superreflexivity](Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026.md) — *2026-09-23*
+- [328. Fixed Points of Nonexpansive Maps in Reflexive Banach Spaces](Fixed-Points-of-Nonexpansive-Maps-in-Reflexive-Banach-Spaces-September-24-2026.md) — *2026-09-24*
+- [329. Counterexamples to the duality conjecture for metric entropy](Counterexamples-to-the-duality-conjecture-for-metric-entropy-September-24-2026.md) — *2026-09-24*
+- [330. A uniformly discrete counterexample to bounded approximation in Lipschitz-free spaces](Failure-of-Bounded-Approximation-in-a-Lipschitz-Free-Space-over-a-Uniformly-Discrete-Metric-Space-September-26-2026.md) — *2026-09-26*
+- [331. Asymptotic midpoint uniform convexity and unbounded diamond distortion in a reflexive tree space](Asymptotic-midpoint-uniform-convexity-and-unbounded-diamond-distortion-in-a-reflexive-tree-space-September-27-2026.md) — *2026-09-27*
+- [331. Distortion of countably branching diamonds from midpoint and tree energies](Diamond-distortion-from-midpoint-and-tree-energies-September-27-2026.md) — *2026-09-27*
+- [331. Exact asymptotic moduli in a Daugavet subspace of L1](Exact-asymptotic-moduli-in-a-Daugavet-subspace-of-L1-September-27-2026.md) — *2026-09-27*
+- [331. Independent products in real L1: asymptotic midpoint convexity without AUC renormings](Independent-products-in-real-L1-asymptotic-midpoint-convexity-without-AUC-renormings-September-27-2026.md) — *2026-09-27*
+- [331. Midpoint convexity from bounded tree potentials and path costs](Midpoint-convexity-from-bounded-tree-potentials-and-path-costs-September-27-2026.md) — *2026-09-27*
+- [331. Midpoint convexity from two recursive potentials](Midpoint-convexity-from-two-recursive-potentials-September-27-2026.md) — *2026-09-27*
+- [331. Midpoint lenses in segment spaces](Midpoint-lenses-in-segment-spaces-September-27-2026.md) — *2026-09-27*
+- [332. Metric Markov Cotype Two of <i>ℓ</i><sub>1</sub> ](Metric-Markov-Cotype-Two-of-l1-October-5-2026.md) — *2026-10-05*
+- [333. Smooth isometric immersions of closed surfaces into Euclidean four-space](Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026.md) — *2026-09-23*
+- [334. A Smooth Metric with No Local Isometric Immersion into Three-Space](A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026.md) — *2026-09-24*
+- [335. An integral scalar curvature bound for real simplicial volume](An-integral-scalar-curvature-bound-for-real-simplicial-volume-October-5-2026.md) — *2026-10-05*
+- [335. Positive scalar curvature forces rational inessentiality](Positive-scalar-curvature-forces-rational-inessentiality-September-23-2026.md) — *2026-09-23*
+- [336. Positive scalar curvature and uniform codimension-two width](Positive-scalar-curvature-and-uniform-codimension-two-width-September-23-2026.md) — *2026-09-23*
+- [336. Spectral scalar curvature and uniform Urysohn width](Spectral-scalar-curvature-and-uniform-Urysohn-width-October-5-2026.md) — *2026-10-05*
+- [336. Spectral scalar curvature and Urysohn width in dimension three](Spectral-scalar-curvature-and-Urysohn-width-in-dimension-three-October-5-2026.md) — *2026-10-05*
+- [337. Generalized Cartan–Hadamard isoperimetry and Euclidean equality rigidity](Generalized-Cartan-Hadamard-isoperimetry-and-Euclidean-equality-rigidity-September-23-2026.md) — *2026-09-23*
+- [337. Sharp integral fillings in CAT(0) spaces](Sharp-integral-fillings-in-CAT-0--spaces-September-23-2026.md) — *2026-09-23*
+- [338. Uniformization of complete Kähler manifolds with positive bisectional curvature](Uniformization-of-complete-Kahler-manifolds-with-positive-bisectional-curvature-September-23-2026.md) — *2026-09-23*
+- [339. Entropy equality and local symmetry in negative curvature](Entropy-equality-and-local-symmetry-in-negative-curvature-September-23-2026.md) — *2026-09-23*
+- [340. A counterexample to the nearby Lagrangian conjecture](A-counterexample-to-the-nearby-Lagrangian-conjecture-September-23-2026.md) — *2026-09-23*
+- [341. Deforming hypersymplectic four-manifolds to hyperkähler triples](Deforming-hypersymplectic-four-manifolds-to-hyperkahler-triples-October-7-2026.md) — *2026-10-07*
+- [342. Taming implies compatibility on four-manifolds](Taming-implies-compatibility-on-four-manifolds-October-6-2026.md) — *2026-10-06*
+- [343. Symplectic Ball Packings in Higher Dimensions](Symplectic-Ball-Packings-in-Higher-Dimensions-September-23-2026.md) — *2026-09-23*
+- [344. The metric Blaschke theorem](The-metric-Blaschke-theorem-September-23-2026.md) — *2026-09-23*
+- [345. Infinitely many closed geodesic images on every Riemannian sphere](Infinitely-many-closed-geodesic-images-on-every-Riemannian-sphere-September-24-2026.md) — *2026-09-24*
+- [346. A Codimension-One Bound for the Singular Set of a Stationary Integral Varifold](A-Codimension-One-Bound-for-the-Singular-Set-of-a-Stationary-Integral-Varifold-October-5-2026.md) — *2026-10-05*
+- [346. Almost-everywhere regularity of stationary integral varifolds](Almost-everywhere-regularity-of-stationary-integral-varifolds-September-23-2026.md) — *2026-09-23*
+- [347. A nondegenerate counterexample to the Morse-number Arnold bound](A-nondegenerate-counterexample-to-the-Morse-number-Arnold-bound-September-23-2026.md) — *2026-09-23*
+- [347. Hamiltonian Fixed Points Below the Stable Morse Number](Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-October-5-2026.md) — *2026-10-05*
+- [347. Hamiltonian Fixed Points Below the Stable Morse Number in Dimension Twenty-Two](Hamiltonian-Fixed-Points-Below-the-Stable-Morse-Number-in-Dimension-Twenty-Two-October-5-2026.md) — *2026-10-05*
+- [347. Sharpness of the Cyclic Integral Floer Bound Below the Stable Morse Number](Sharpness-of-the-Cyclic-Integral-Floer-Bound-Below-the-Stable-Morse-Number-October-5-2026.md) — *2026-10-05*
+- [347. Three fixed points on the symplectic quadric threefold](A-degenerate-counterexample-to-the-critical-number-Arnold-bound-September-23-2026.md) — *2026-09-23*
+- [348. An L² Einstein Gap for Nonnegatively Curved Four-Manifolds](An-L2-Einstein-Gap-for-Nonnegatively-Curved-Four-Manifolds-October-5-2026.md) — *2026-10-05*
+- [348. Positively curved Einstein four-manifolds](Positively-curved-Einstein-four-manifolds-September-23-2026.md) — *2026-09-23*
+- [348. Zero-Plane Rigidity for Einstein Four-Manifolds](Zero-Plane-Rigidity-for-Einstein-Four-Manifolds-October-4-2026.md) — *2026-10-04*
+- [349. The Solomon–Yau least-volume theorem](The-Solomon-Yau-least-volume-theorem-September-23-2026.md) — *2026-09-23*
+- [350. Power-law violations of Yau's nodal upper bound](Power-law-violations-of-Yaus-nodal-upper-bound-September-23-2026.md) — *2026-09-23*
+- [350. Sharp nodal length on smooth surfaces](Sharp-nodal-length-on-smooth-surfaces-September-23-2026.md) — *2026-09-23*
+- [350. Smooth counterexamples to Yau's nodal upper bound in dimensions three and four](Smooth-counterexamples-to-Yaus-nodal-upper-bound-in-dimensions-three-and-four-September-23-2026.md) — *2026-09-23*
+- [351. A closed Ricci flow with bounded scalar curvature and finite-time curvature blowup](A-closed-Ricci-flow-with-bounded-scalar-curvature-and-finite-time-curvature-blowup-September-24-2026.md) — *2026-09-24*
+- [351. Bounded scalar curvature and smooth extension of four-dimensional Ricci flow](Bounded-scalar-curvature-and-smooth-extension-of-four-dimensional-Ricci-flow-September-24-2026.md) — *2026-09-24*
+- [351. Path selection and an elliptic inequality on degenerating Ricci-flat trees](Path-selection-and-an-elliptic-inequality-on-degenerating-Ricci-flat-trees-September-24-2026.md) — *2026-09-24*
+- [352. A finite-time singularity of Calabi flow on projective space](A-finite-time-singularity-of-Calabi-flow-on-projective-space-September-24-2026.md) — *2026-09-24*
+- [353. A Smooth Nonquadratic Entire Affine Maximal Graph in Dimension Ten](Smooth-Nonquadratic-Affine-Maximal-Graph-in-Dimension-Ten-October-5-2026.md) — *2026-10-05*
+- [353. The affine Bernstein theorem in dimensions three through nine](The-affine-Bernstein-theorem-in-dimensions-three-through-nine-September-24-2026.md) — *2026-09-24*
+- [354. The Isoperimetric Conjecture for the Cubic Flat Three-Torus](The-Isoperimetric-Conjecture-for-the-Cubic-Flat-Three-Torus-September-24-2026.md) — *2026-09-24*
+- [355. Uniqueness of tangent flows at the first singular time of embedded surface mean-curvature flow](Tangent-flow-uniqueness-2026-09-24.md) — *n.d.*
+- [356. Gigli’s distributional curvature characterization of Alexandrov spaces](Giglis-distributional-curvature-characterization-of-Alexandrov-spaces-September-24-2026.md) — *2026-09-24*
+- [356. Weak Hessian bounds along every geodesic in RCD spaces](Weak-Hessian-bounds-along-every-geodesic-in-RCD-spaces-September-24-2026.md) — *2026-09-24*
+- [357. Bi-Lipschitz Coordinates at Regular Points of Noncollapsed RCD Spaces](Bi-Lipschitz-Coordinates-at-Regular-Points-of-Noncollapsed-RCD-Spaces-September-25-2026.md) — *2026-09-25*
+- [358. A Three-Manifold Without Conjugate Points and Without a Nonpositively Curved Metric](A-Three-Manifold-Without-Conjugate-Points-and-Without-a-Nonpositively-Curved-Metric-September-24-2026.md) — *2026-09-24*
+- [359. A negatively pinched Kähler threefold without bounded holomorphic coordinates](A-negatively-pinched-Kahler-threefold-without-bounded-holomorphic-coordinates-September-25-2026.md) — *2026-09-25*
+- [359. One-sided negative sectional curvature and the holomorphic Liouville property](One-sided-negative-sectional-curvature-and-the-holomorphic-Liouville-property-September-25-2026.md) — *2026-09-25*
+- [360. Global Support and Convex Injectivity Domains under Weak MTW](Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026.md) — *2026-09-25*
+- [360. Uniform Bi-Holder Transport from Weak MTW](Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026.md) — *2026-09-25*
+- [361. A counterexample to integer-degree harmonic dimension comparison](A-counterexample-to-integer-degree-harmonic-dimension-comparison-September-25-2026.md) — *2026-09-25*
+- [361. A Three-Dimensional Counterexample to Integer-Degree Harmonic Dimension Comparison](A-Three-Dimensional-Counterexample-to-Integer-Degree-Harmonic-Dimension-Comparison-September-26-2026.md) — *2026-09-26*
+- [362. Global classical solutions of the three-dimensional relativistic Vlasov–Maxwell system](Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026.md) — *2026-09-23*
+- [363. Nonuniqueness for the periodic hard-sphere Boltzmann equation](Nonuniqueness-for-the-periodic-hard-sphere-Boltzmann-equation-September-23-2026.md) — *2026-09-23*
+- [363. Nonuniqueness with local conservation for the hard-sphere Boltzmann equation](Nonuniqueness-with-local-conservation-for-the-hard-sphere-Boltzmann-equation-October-5-2026.md) — *2026-10-05*
+- [364. Hard-sphere fluctuations on the regular Boltzmann lifespan](Hard-sphere-fluctuations-on-the-regular-Boltzmann-lifespan-September-23-2026.md) — *2026-09-23*
+- [364. The Boltzmann–Grad limit for stable radial potentials on regular kinetic intervals](The-Boltzmann-Grad-limit-for-stable-radial-potentials-on-regular-kinetic-intervals-September-23-2026.md) — *2026-09-23*
+- [365. Determination of a metric and a unitary connection from one boundary patch](Determination-of-a-metric-and-a-unitary-connection-from-one-boundary-patch-October-5-2026.md) — *2026-10-05*
+- [365. Nonuniqueness for bounded measurable scalar conductivities in three dimensions](Nonuniqueness-for-Bounded-Measurable-Scalar-Conductivities-in-Three-Dimensions-September-23-2026.md) — *2026-09-23*
+- [365. Smooth anisotropic uniqueness in the Calderón problem from one boundary patch](Smooth-Anisotropic-Uniqueness-in-the-Calderon-Problem-from-One-Boundary-Patch-September-24-2026.md) — *2026-09-24*
+- [366. Interior regularity of planar Mumford–Shah minimizers](Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026.md) — *2026-09-24*
+- [367. The critical dimension for one-phase Bernoulli minimizers](The-critical-dimension-for-one-phase-Bernoulli-minimizers-September-24-2026.md) — *2026-09-24*
+- [368. Strong diffeomorphic approximation in three dimensions for 1≤p≤2](Strong-diffeomorphic-approximation-in-three-dimensions-for-1-le-p-le-2-September-24-2026.md) — *2026-09-24*
+- [368. Strong diffeomorphic approximation in three dimensions for p>2](Strong-diffeomorphic-approximation-in-three-dimensions-for-p-gt-2-September-24-2026.md) — *2026-09-24*
+- [369. Strict hot spots and absence of interior critical points on smooth simply connected planar domains](Strict-hot-spots-and-absence-of-interior-critical-points-on-smooth-simply-connected-planar-domains-September-24-2026.md) — *2026-09-24*
+- [370. The Subcritical Hénon–Lane–Emden Conjecture](The-Subcritical-Henon-Lane-Emden-Conjecture-September-24-2026.md) — *2026-09-24*
+- [371. Stable self-similar blowup for a supercritical defocusing Schrödinger equation on the torus](Stable-Self-Similar-Blowup-for-a-Supercritical-Defocusing-Schrodinger-Equation-on-the-Torus-September-24-2026.md) — *2026-09-24*
+- [372. Global Uniqueness for the Smooth Isotropic Elasticity Inverse Problem](Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026.md) — *2026-09-24*
+- [373. A counterexample to the Monge ansatz for the three-marginal Coulomb cost](A-counterexample-to-the-Monge-ansatz-for-the-three-marginal-Coulomb-cost-September-25-2026.md) — *2026-09-25*
+- [374. Sharp One-Third Stability of Brenier Maps](Sharp-One-Third-Stability-of-Brenier-Maps-September-25-2026.md) — *2026-09-25*
+- [375. A positive resolution of De Giorgi's conjecture in dimension eight](De-Giorgis-conjecture-in-dimension-eight-September-26-2026.md) — *2026-09-26*
+- [376. A Fixed Particle Test for Computation in a Forced Viscous Flow](A-Fixed-Particle-Test-for-Computation-in-a-Forced-Viscous-Flow-September-27-2026.md) — *2026-09-27*
+- [376. Computation under Rapidly Vanishing Navier–Stokes Forcing](Computation-under-Rapidly-Vanishing-Navier-Stokes-Forcing-September-27-2026.md) — *2026-09-27*
+- [376. Finite Instructions and Solenoidal Shear Flows](Finite-Instructions-and-Solenoidal-Shear-Flows-September-27-2026.md) — *2026-09-27*
+- [376. Geometric Programs for Solenoidal Forcing](Geometric-Programs-for-Solenoidal-Forcing-September-27-2026.md) — *2026-09-27*
+- [376. Incompressible Box Transport and Finite Computation](Incompressible-Box-Transport-and-Finite-Computation-October-6-2026.md) — *2026-10-06*
+- [376. Prefix Instructions and Incompressible Flows](Prefix-Instructions-and-Incompressible-Flows-September-27-2026.md) — *2026-09-27*
+- [376. Scalar Potentials and Slow Clocks for Forced Fluid Computation](Scalar-Potentials-and-Slow-Clocks-for-Forced-Fluid-Computation-September-27-2026.md) — *2026-09-27*
+- [376. Universal Computation with Eventually Stationary Navier–Stokes Forcing](Universal-Computation-with-Eventually-Stationary-Navier-Stokes-Forcing-September-27-2026.md) — *2026-09-27*
+- [376. Velocity-Field Detection of Computation in Forced Navier–Stokes Flows](Velocity-Field-Detection-of-Computation-in-Forced-Navier-Stokes-Flows-September-27-2026.md) — *2026-09-27*
+- [377. Uniform Interior $`C^{1,\alpha}`$ Estimates for Infinity-Harmonic Functions](Uniform-Interior-C1alpha-Estimates-for-Infinity-Harmonic-Functions-October-4-2026.md) — *2026-10-04*
